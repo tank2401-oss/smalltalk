@@ -1,0 +1,1606 @@
+{
+  "schemaVersion": 1,
+  "departmentId": "electric",
+  "expressions": [
+    {
+      "id": "electric-1",
+      "departmentId": "electric",
+      "day": 1,
+      "task": "test the circuit",
+      "text": "Could you help me test the circuit?",
+      "meaning": "회로를 테스트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me test the circuit?",
+        "Could you give me a hand as I test the circuit?",
+        "I'd appreciate your help as I test the circuit."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-2",
+      "departmentId": "electric",
+      "day": 2,
+      "task": "check the voltage",
+      "text": "Could you help me check the voltage?",
+      "meaning": "전압을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the voltage?",
+        "Could you give me a hand as I check the voltage?",
+        "I'd appreciate your help as I check the voltage."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-3",
+      "departmentId": "electric",
+      "day": 3,
+      "task": "connect the cable",
+      "text": "Could you help me connect the cable?",
+      "meaning": "케이블을 연결하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me connect the cable?",
+        "Could you give me a hand as I connect the cable?",
+        "I'd appreciate your help as I connect the cable."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-4",
+      "departmentId": "electric",
+      "day": 4,
+      "task": "turn off the power",
+      "text": "Could you help me turn off the power?",
+      "meaning": "전원을 끄는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me turn off the power?",
+        "Could you give me a hand as I turn off the power?",
+        "I'd appreciate your help as I turn off the power."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-5",
+      "departmentId": "electric",
+      "day": 5,
+      "task": "inspect the wiring",
+      "text": "Could you help me inspect the wiring?",
+      "meaning": "배선을 점검하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me inspect the wiring?",
+        "Could you give me a hand as I inspect the wiring?",
+        "I'd appreciate your help as I inspect the wiring."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-6",
+      "departmentId": "electric",
+      "day": 6,
+      "task": "replace the fuse",
+      "text": "Could you help me replace the fuse?",
+      "meaning": "퓨즈를 교체하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me replace the fuse?",
+        "Could you give me a hand as I replace the fuse?",
+        "I'd appreciate your help as I replace the fuse."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-7",
+      "departmentId": "electric",
+      "day": 7,
+      "task": "measure the current",
+      "text": "Could you help me measure the current?",
+      "meaning": "전류를 측정하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me measure the current?",
+        "Could you give me a hand as I measure the current?",
+        "I'd appreciate your help as I measure the current."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-8",
+      "departmentId": "electric",
+      "day": 8,
+      "task": "read the circuit diagram",
+      "text": "Could you help me read the circuit diagram?",
+      "meaning": "회로도를 읽는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me read the circuit diagram?",
+        "Could you give me a hand as I read the circuit diagram?",
+        "I'd appreciate your help as I read the circuit diagram."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-9",
+      "departmentId": "electric",
+      "day": 9,
+      "task": "check the signal",
+      "text": "Could you help me check the signal?",
+      "meaning": "신호를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the signal?",
+        "Could you give me a hand as I check the signal?",
+        "I'd appreciate your help as I check the signal."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-10",
+      "departmentId": "electric",
+      "day": 10,
+      "task": "install the sensor",
+      "text": "Could you help me install the sensor?",
+      "meaning": "센서를 설치하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me install the sensor?",
+        "Could you give me a hand as I install the sensor?",
+        "I'd appreciate your help as I install the sensor."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-11",
+      "departmentId": "electric",
+      "day": 11,
+      "task": "test the battery",
+      "text": "Could you help me test the battery?",
+      "meaning": "배터리를 테스트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me test the battery?",
+        "Could you give me a hand as I test the battery?",
+        "I'd appreciate your help as I test the battery."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-12",
+      "departmentId": "electric",
+      "day": 12,
+      "task": "adjust the frequency",
+      "text": "Could you help me adjust the frequency?",
+      "meaning": "주파수를 조절하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me adjust the frequency?",
+        "Could you give me a hand as I adjust the frequency?",
+        "I'd appreciate your help as I adjust the frequency."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-13",
+      "departmentId": "electric",
+      "day": 13,
+      "task": "check the connection",
+      "text": "Could you help me check the connection?",
+      "meaning": "연결 상태를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the connection?",
+        "Could you give me a hand as I check the connection?",
+        "I'd appreciate your help as I check the connection."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-14",
+      "departmentId": "electric",
+      "day": 14,
+      "task": "repair the switch",
+      "text": "Could you help me repair the switch?",
+      "meaning": "스위치를 수리하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me repair the switch?",
+        "Could you give me a hand as I repair the switch?",
+        "I'd appreciate your help as I repair the switch."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-15",
+      "departmentId": "electric",
+      "day": 15,
+      "task": "label the wires",
+      "text": "Could you help me label the wires?",
+      "meaning": "전선에 라벨을 붙이는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me label the wires?",
+        "Could you give me a hand as I label the wires?",
+        "I'd appreciate your help as I label the wires."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-16",
+      "departmentId": "electric",
+      "day": 16,
+      "task": "use the multimeter",
+      "text": "Could you help me use the multimeter?",
+      "meaning": "멀티미터를 사용하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me use the multimeter?",
+        "Could you give me a hand as I use the multimeter?",
+        "I'd appreciate your help as I use the multimeter."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-17",
+      "departmentId": "electric",
+      "day": 17,
+      "task": "check the resistance",
+      "text": "Could you help me check the resistance?",
+      "meaning": "저항을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the resistance?",
+        "Could you give me a hand as I check the resistance?",
+        "I'd appreciate your help as I check the resistance."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-18",
+      "departmentId": "electric",
+      "day": 18,
+      "task": "connect the antenna",
+      "text": "Could you help me connect the antenna?",
+      "meaning": "안테나를 연결하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me connect the antenna?",
+        "Could you give me a hand as I connect the antenna?",
+        "I'd appreciate your help as I connect the antenna."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-19",
+      "departmentId": "electric",
+      "day": 19,
+      "task": "replace the component",
+      "text": "Could you help me replace the component?",
+      "meaning": "부품을 교체하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me replace the component?",
+        "Could you give me a hand as I replace the component?",
+        "I'd appreciate your help as I replace the component."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-20",
+      "departmentId": "electric",
+      "day": 20,
+      "task": "inspect the power supply",
+      "text": "Could you help me inspect the power supply?",
+      "meaning": "전원 공급 장치를 점검하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me inspect the power supply?",
+        "Could you give me a hand as I inspect the power supply?",
+        "I'd appreciate your help as I inspect the power supply."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-21",
+      "departmentId": "electric",
+      "day": 21,
+      "task": "solder the joint",
+      "text": "Could you help me solder the joint?",
+      "meaning": "접합부를 납땜하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me solder the joint?",
+        "Could you give me a hand as I solder the joint?",
+        "I'd appreciate your help as I solder the joint."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-22",
+      "departmentId": "electric",
+      "day": 22,
+      "task": "test the network",
+      "text": "Could you help me test the network?",
+      "meaning": "네트워크를 테스트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me test the network?",
+        "Could you give me a hand as I test the network?",
+        "I'd appreciate your help as I test the network."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-23",
+      "departmentId": "electric",
+      "day": 23,
+      "task": "check the grounding",
+      "text": "Could you help me check the grounding?",
+      "meaning": "접지 상태를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the grounding?",
+        "Could you give me a hand as I check the grounding?",
+        "I'd appreciate your help as I check the grounding."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-24",
+      "departmentId": "electric",
+      "day": 24,
+      "task": "record the readings",
+      "text": "Could you help me record the readings?",
+      "meaning": "측정값을 기록하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me record the readings?",
+        "Could you give me a hand as I record the readings?",
+        "I'd appreciate your help as I record the readings."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-25",
+      "departmentId": "electric",
+      "day": 25,
+      "task": "review the safety checklist",
+      "text": "Could you help me review the safety checklist?",
+      "meaning": "안전 점검표를 검토하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me review the safety checklist?",
+        "Could you give me a hand as I review the safety checklist?",
+        "I'd appreciate your help as I review the safety checklist."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "electric-26",
+      "departmentId": "electric",
+      "day": 26,
+      "task": "test the circuit",
+      "text": "I'm ready to test the circuit.",
+      "meaning": "회로를 테스트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to test the circuit.",
+        "I can test the circuit now.",
+        "I'm prepared to test the circuit."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-27",
+      "departmentId": "electric",
+      "day": 27,
+      "task": "check the voltage",
+      "text": "I'm ready to check the voltage.",
+      "meaning": "전압을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the voltage.",
+        "I can check the voltage now.",
+        "I'm prepared to check the voltage."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-28",
+      "departmentId": "electric",
+      "day": 28,
+      "task": "connect the cable",
+      "text": "I'm ready to connect the cable.",
+      "meaning": "케이블을 연결할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to connect the cable.",
+        "I can connect the cable now.",
+        "I'm prepared to connect the cable."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-29",
+      "departmentId": "electric",
+      "day": 29,
+      "task": "turn off the power",
+      "text": "I'm ready to turn off the power.",
+      "meaning": "전원을 끌 준비가 되었어요.",
+      "similar": [
+        "I'm all set to turn off the power.",
+        "I can turn off the power now.",
+        "I'm prepared to turn off the power."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-30",
+      "departmentId": "electric",
+      "day": 30,
+      "task": "inspect the wiring",
+      "text": "I'm ready to inspect the wiring.",
+      "meaning": "배선을 점검할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to inspect the wiring.",
+        "I can inspect the wiring now.",
+        "I'm prepared to inspect the wiring."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-31",
+      "departmentId": "electric",
+      "day": 31,
+      "task": "replace the fuse",
+      "text": "I'm ready to replace the fuse.",
+      "meaning": "퓨즈를 교체할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to replace the fuse.",
+        "I can replace the fuse now.",
+        "I'm prepared to replace the fuse."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-32",
+      "departmentId": "electric",
+      "day": 32,
+      "task": "measure the current",
+      "text": "I'm ready to measure the current.",
+      "meaning": "전류를 측정할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to measure the current.",
+        "I can measure the current now.",
+        "I'm prepared to measure the current."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-33",
+      "departmentId": "electric",
+      "day": 33,
+      "task": "read the circuit diagram",
+      "text": "I'm ready to read the circuit diagram.",
+      "meaning": "회로도를 읽을 준비가 되었어요.",
+      "similar": [
+        "I'm all set to read the circuit diagram.",
+        "I can read the circuit diagram now.",
+        "I'm prepared to read the circuit diagram."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-34",
+      "departmentId": "electric",
+      "day": 34,
+      "task": "check the signal",
+      "text": "I'm ready to check the signal.",
+      "meaning": "신호를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the signal.",
+        "I can check the signal now.",
+        "I'm prepared to check the signal."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-35",
+      "departmentId": "electric",
+      "day": 35,
+      "task": "install the sensor",
+      "text": "I'm ready to install the sensor.",
+      "meaning": "센서를 설치할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to install the sensor.",
+        "I can install the sensor now.",
+        "I'm prepared to install the sensor."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-36",
+      "departmentId": "electric",
+      "day": 36,
+      "task": "test the battery",
+      "text": "I'm ready to test the battery.",
+      "meaning": "배터리를 테스트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to test the battery.",
+        "I can test the battery now.",
+        "I'm prepared to test the battery."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-37",
+      "departmentId": "electric",
+      "day": 37,
+      "task": "adjust the frequency",
+      "text": "I'm ready to adjust the frequency.",
+      "meaning": "주파수를 조절할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to adjust the frequency.",
+        "I can adjust the frequency now.",
+        "I'm prepared to adjust the frequency."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-38",
+      "departmentId": "electric",
+      "day": 38,
+      "task": "check the connection",
+      "text": "I'm ready to check the connection.",
+      "meaning": "연결 상태를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the connection.",
+        "I can check the connection now.",
+        "I'm prepared to check the connection."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-39",
+      "departmentId": "electric",
+      "day": 39,
+      "task": "repair the switch",
+      "text": "I'm ready to repair the switch.",
+      "meaning": "스위치를 수리할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to repair the switch.",
+        "I can repair the switch now.",
+        "I'm prepared to repair the switch."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-40",
+      "departmentId": "electric",
+      "day": 40,
+      "task": "label the wires",
+      "text": "I'm ready to label the wires.",
+      "meaning": "전선에 라벨을 붙이다 준비가 되었어요.",
+      "similar": [
+        "I'm all set to label the wires.",
+        "I can label the wires now.",
+        "I'm prepared to label the wires."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-41",
+      "departmentId": "electric",
+      "day": 41,
+      "task": "use the multimeter",
+      "text": "I'm ready to use the multimeter.",
+      "meaning": "멀티미터를 사용할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to use the multimeter.",
+        "I can use the multimeter now.",
+        "I'm prepared to use the multimeter."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-42",
+      "departmentId": "electric",
+      "day": 42,
+      "task": "check the resistance",
+      "text": "I'm ready to check the resistance.",
+      "meaning": "저항을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the resistance.",
+        "I can check the resistance now.",
+        "I'm prepared to check the resistance."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-43",
+      "departmentId": "electric",
+      "day": 43,
+      "task": "connect the antenna",
+      "text": "I'm ready to connect the antenna.",
+      "meaning": "안테나를 연결할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to connect the antenna.",
+        "I can connect the antenna now.",
+        "I'm prepared to connect the antenna."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-44",
+      "departmentId": "electric",
+      "day": 44,
+      "task": "replace the component",
+      "text": "I'm ready to replace the component.",
+      "meaning": "부품을 교체할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to replace the component.",
+        "I can replace the component now.",
+        "I'm prepared to replace the component."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-45",
+      "departmentId": "electric",
+      "day": 45,
+      "task": "inspect the power supply",
+      "text": "I'm ready to inspect the power supply.",
+      "meaning": "전원 공급 장치를 점검할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to inspect the power supply.",
+        "I can inspect the power supply now.",
+        "I'm prepared to inspect the power supply."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-46",
+      "departmentId": "electric",
+      "day": 46,
+      "task": "solder the joint",
+      "text": "I'm ready to solder the joint.",
+      "meaning": "접합부를 납땜할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to solder the joint.",
+        "I can solder the joint now.",
+        "I'm prepared to solder the joint."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-47",
+      "departmentId": "electric",
+      "day": 47,
+      "task": "test the network",
+      "text": "I'm ready to test the network.",
+      "meaning": "네트워크를 테스트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to test the network.",
+        "I can test the network now.",
+        "I'm prepared to test the network."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-48",
+      "departmentId": "electric",
+      "day": 48,
+      "task": "check the grounding",
+      "text": "I'm ready to check the grounding.",
+      "meaning": "접지 상태를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the grounding.",
+        "I can check the grounding now.",
+        "I'm prepared to check the grounding."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-49",
+      "departmentId": "electric",
+      "day": 49,
+      "task": "record the readings",
+      "text": "I'm ready to record the readings.",
+      "meaning": "측정값을 기록할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to record the readings.",
+        "I can record the readings now.",
+        "I'm prepared to record the readings."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-50",
+      "departmentId": "electric",
+      "day": 50,
+      "task": "review the safety checklist",
+      "text": "I'm ready to review the safety checklist.",
+      "meaning": "안전 점검표를 검토할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to review the safety checklist.",
+        "I can review the safety checklist now.",
+        "I'm prepared to review the safety checklist."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "electric-51",
+      "departmentId": "electric",
+      "day": 51,
+      "task": "test the circuit",
+      "text": "Let me show you how to test the circuit.",
+      "meaning": "회로를 테스트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to test the circuit.",
+        "Let me explain how to test the circuit.",
+        "I can show you how to test the circuit."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-52",
+      "departmentId": "electric",
+      "day": 52,
+      "task": "check the voltage",
+      "text": "Let me show you how to check the voltage.",
+      "meaning": "전압을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the voltage.",
+        "Let me explain how to check the voltage.",
+        "I can show you how to check the voltage."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-53",
+      "departmentId": "electric",
+      "day": 53,
+      "task": "connect the cable",
+      "text": "Let me show you how to connect the cable.",
+      "meaning": "케이블을 연결하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to connect the cable.",
+        "Let me explain how to connect the cable.",
+        "I can show you how to connect the cable."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-54",
+      "departmentId": "electric",
+      "day": 54,
+      "task": "turn off the power",
+      "text": "Let me show you how to turn off the power.",
+      "meaning": "전원을 끄는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to turn off the power.",
+        "Let me explain how to turn off the power.",
+        "I can show you how to turn off the power."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-55",
+      "departmentId": "electric",
+      "day": 55,
+      "task": "inspect the wiring",
+      "text": "Let me show you how to inspect the wiring.",
+      "meaning": "배선을 점검하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to inspect the wiring.",
+        "Let me explain how to inspect the wiring.",
+        "I can show you how to inspect the wiring."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-56",
+      "departmentId": "electric",
+      "day": 56,
+      "task": "replace the fuse",
+      "text": "Let me show you how to replace the fuse.",
+      "meaning": "퓨즈를 교체하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to replace the fuse.",
+        "Let me explain how to replace the fuse.",
+        "I can show you how to replace the fuse."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-57",
+      "departmentId": "electric",
+      "day": 57,
+      "task": "measure the current",
+      "text": "Let me show you how to measure the current.",
+      "meaning": "전류를 측정하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to measure the current.",
+        "Let me explain how to measure the current.",
+        "I can show you how to measure the current."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-58",
+      "departmentId": "electric",
+      "day": 58,
+      "task": "read the circuit diagram",
+      "text": "Let me show you how to read the circuit diagram.",
+      "meaning": "회로도를 읽는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to read the circuit diagram.",
+        "Let me explain how to read the circuit diagram.",
+        "I can show you how to read the circuit diagram."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-59",
+      "departmentId": "electric",
+      "day": 59,
+      "task": "check the signal",
+      "text": "Let me show you how to check the signal.",
+      "meaning": "신호를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the signal.",
+        "Let me explain how to check the signal.",
+        "I can show you how to check the signal."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-60",
+      "departmentId": "electric",
+      "day": 60,
+      "task": "install the sensor",
+      "text": "Let me show you how to install the sensor.",
+      "meaning": "센서를 설치하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to install the sensor.",
+        "Let me explain how to install the sensor.",
+        "I can show you how to install the sensor."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-61",
+      "departmentId": "electric",
+      "day": 61,
+      "task": "test the battery",
+      "text": "Let me show you how to test the battery.",
+      "meaning": "배터리를 테스트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to test the battery.",
+        "Let me explain how to test the battery.",
+        "I can show you how to test the battery."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-62",
+      "departmentId": "electric",
+      "day": 62,
+      "task": "adjust the frequency",
+      "text": "Let me show you how to adjust the frequency.",
+      "meaning": "주파수를 조절하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to adjust the frequency.",
+        "Let me explain how to adjust the frequency.",
+        "I can show you how to adjust the frequency."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-63",
+      "departmentId": "electric",
+      "day": 63,
+      "task": "check the connection",
+      "text": "Let me show you how to check the connection.",
+      "meaning": "연결 상태를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the connection.",
+        "Let me explain how to check the connection.",
+        "I can show you how to check the connection."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-64",
+      "departmentId": "electric",
+      "day": 64,
+      "task": "repair the switch",
+      "text": "Let me show you how to repair the switch.",
+      "meaning": "스위치를 수리하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to repair the switch.",
+        "Let me explain how to repair the switch.",
+        "I can show you how to repair the switch."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-65",
+      "departmentId": "electric",
+      "day": 65,
+      "task": "label the wires",
+      "text": "Let me show you how to label the wires.",
+      "meaning": "전선에 라벨을 붙이는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to label the wires.",
+        "Let me explain how to label the wires.",
+        "I can show you how to label the wires."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-66",
+      "departmentId": "electric",
+      "day": 66,
+      "task": "use the multimeter",
+      "text": "Let me show you how to use the multimeter.",
+      "meaning": "멀티미터를 사용하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to use the multimeter.",
+        "Let me explain how to use the multimeter.",
+        "I can show you how to use the multimeter."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-67",
+      "departmentId": "electric",
+      "day": 67,
+      "task": "check the resistance",
+      "text": "Let me show you how to check the resistance.",
+      "meaning": "저항을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the resistance.",
+        "Let me explain how to check the resistance.",
+        "I can show you how to check the resistance."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-68",
+      "departmentId": "electric",
+      "day": 68,
+      "task": "connect the antenna",
+      "text": "Let me show you how to connect the antenna.",
+      "meaning": "안테나를 연결하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to connect the antenna.",
+        "Let me explain how to connect the antenna.",
+        "I can show you how to connect the antenna."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-69",
+      "departmentId": "electric",
+      "day": 69,
+      "task": "replace the component",
+      "text": "Let me show you how to replace the component.",
+      "meaning": "부품을 교체하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to replace the component.",
+        "Let me explain how to replace the component.",
+        "I can show you how to replace the component."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-70",
+      "departmentId": "electric",
+      "day": 70,
+      "task": "inspect the power supply",
+      "text": "Let me show you how to inspect the power supply.",
+      "meaning": "전원 공급 장치를 점검하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to inspect the power supply.",
+        "Let me explain how to inspect the power supply.",
+        "I can show you how to inspect the power supply."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-71",
+      "departmentId": "electric",
+      "day": 71,
+      "task": "solder the joint",
+      "text": "Let me show you how to solder the joint.",
+      "meaning": "접합부를 납땜하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to solder the joint.",
+        "Let me explain how to solder the joint.",
+        "I can show you how to solder the joint."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-72",
+      "departmentId": "electric",
+      "day": 72,
+      "task": "test the network",
+      "text": "Let me show you how to test the network.",
+      "meaning": "네트워크를 테스트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to test the network.",
+        "Let me explain how to test the network.",
+        "I can show you how to test the network."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-73",
+      "departmentId": "electric",
+      "day": 73,
+      "task": "check the grounding",
+      "text": "Let me show you how to check the grounding.",
+      "meaning": "접지 상태를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the grounding.",
+        "Let me explain how to check the grounding.",
+        "I can show you how to check the grounding."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-74",
+      "departmentId": "electric",
+      "day": 74,
+      "task": "record the readings",
+      "text": "Let me show you how to record the readings.",
+      "meaning": "측정값을 기록하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to record the readings.",
+        "Let me explain how to record the readings.",
+        "I can show you how to record the readings."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-75",
+      "departmentId": "electric",
+      "day": 75,
+      "task": "review the safety checklist",
+      "text": "Let me show you how to review the safety checklist.",
+      "meaning": "안전 점검표를 검토하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to review the safety checklist.",
+        "Let me explain how to review the safety checklist.",
+        "I can show you how to review the safety checklist."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "electric-76",
+      "departmentId": "electric",
+      "day": 76,
+      "task": "test the circuit",
+      "text": "Shall we test the circuit together?",
+      "meaning": "함께 회로를 테스트하는 건 어때요?",
+      "similar": [
+        "Let's test the circuit together.",
+        "How about we test the circuit together?",
+        "Would you like to test the circuit with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-77",
+      "departmentId": "electric",
+      "day": 77,
+      "task": "check the voltage",
+      "text": "Shall we check the voltage together?",
+      "meaning": "함께 전압을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the voltage together.",
+        "How about we check the voltage together?",
+        "Would you like to check the voltage with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-78",
+      "departmentId": "electric",
+      "day": 78,
+      "task": "connect the cable",
+      "text": "Shall we connect the cable together?",
+      "meaning": "함께 케이블을 연결하는 건 어때요?",
+      "similar": [
+        "Let's connect the cable together.",
+        "How about we connect the cable together?",
+        "Would you like to connect the cable with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-79",
+      "departmentId": "electric",
+      "day": 79,
+      "task": "turn off the power",
+      "text": "Shall we turn off the power together?",
+      "meaning": "함께 전원을 끄는 건 어때요?",
+      "similar": [
+        "Let's turn off the power together.",
+        "How about we turn off the power together?",
+        "Would you like to turn off the power with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-80",
+      "departmentId": "electric",
+      "day": 80,
+      "task": "inspect the wiring",
+      "text": "Shall we inspect the wiring together?",
+      "meaning": "함께 배선을 점검하는 건 어때요?",
+      "similar": [
+        "Let's inspect the wiring together.",
+        "How about we inspect the wiring together?",
+        "Would you like to inspect the wiring with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-81",
+      "departmentId": "electric",
+      "day": 81,
+      "task": "replace the fuse",
+      "text": "Shall we replace the fuse together?",
+      "meaning": "함께 퓨즈를 교체하는 건 어때요?",
+      "similar": [
+        "Let's replace the fuse together.",
+        "How about we replace the fuse together?",
+        "Would you like to replace the fuse with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-82",
+      "departmentId": "electric",
+      "day": 82,
+      "task": "measure the current",
+      "text": "Shall we measure the current together?",
+      "meaning": "함께 전류를 측정하는 건 어때요?",
+      "similar": [
+        "Let's measure the current together.",
+        "How about we measure the current together?",
+        "Would you like to measure the current with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-83",
+      "departmentId": "electric",
+      "day": 83,
+      "task": "read the circuit diagram",
+      "text": "Shall we read the circuit diagram together?",
+      "meaning": "함께 회로도를 읽는 건 어때요?",
+      "similar": [
+        "Let's read the circuit diagram together.",
+        "How about we read the circuit diagram together?",
+        "Would you like to read the circuit diagram with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-84",
+      "departmentId": "electric",
+      "day": 84,
+      "task": "check the signal",
+      "text": "Shall we check the signal together?",
+      "meaning": "함께 신호를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the signal together.",
+        "How about we check the signal together?",
+        "Would you like to check the signal with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-85",
+      "departmentId": "electric",
+      "day": 85,
+      "task": "install the sensor",
+      "text": "Shall we install the sensor together?",
+      "meaning": "함께 센서를 설치하는 건 어때요?",
+      "similar": [
+        "Let's install the sensor together.",
+        "How about we install the sensor together?",
+        "Would you like to install the sensor with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-86",
+      "departmentId": "electric",
+      "day": 86,
+      "task": "test the battery",
+      "text": "Shall we test the battery together?",
+      "meaning": "함께 배터리를 테스트하는 건 어때요?",
+      "similar": [
+        "Let's test the battery together.",
+        "How about we test the battery together?",
+        "Would you like to test the battery with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-87",
+      "departmentId": "electric",
+      "day": 87,
+      "task": "adjust the frequency",
+      "text": "Shall we adjust the frequency together?",
+      "meaning": "함께 주파수를 조절하는 건 어때요?",
+      "similar": [
+        "Let's adjust the frequency together.",
+        "How about we adjust the frequency together?",
+        "Would you like to adjust the frequency with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-88",
+      "departmentId": "electric",
+      "day": 88,
+      "task": "check the connection",
+      "text": "Shall we check the connection together?",
+      "meaning": "함께 연결 상태를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the connection together.",
+        "How about we check the connection together?",
+        "Would you like to check the connection with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-89",
+      "departmentId": "electric",
+      "day": 89,
+      "task": "repair the switch",
+      "text": "Shall we repair the switch together?",
+      "meaning": "함께 스위치를 수리하는 건 어때요?",
+      "similar": [
+        "Let's repair the switch together.",
+        "How about we repair the switch together?",
+        "Would you like to repair the switch with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-90",
+      "departmentId": "electric",
+      "day": 90,
+      "task": "label the wires",
+      "text": "Shall we label the wires together?",
+      "meaning": "함께 전선에 라벨을 붙이는 건 어때요?",
+      "similar": [
+        "Let's label the wires together.",
+        "How about we label the wires together?",
+        "Would you like to label the wires with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-91",
+      "departmentId": "electric",
+      "day": 91,
+      "task": "use the multimeter",
+      "text": "Shall we use the multimeter together?",
+      "meaning": "함께 멀티미터를 사용하는 건 어때요?",
+      "similar": [
+        "Let's use the multimeter together.",
+        "How about we use the multimeter together?",
+        "Would you like to use the multimeter with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-92",
+      "departmentId": "electric",
+      "day": 92,
+      "task": "check the resistance",
+      "text": "Shall we check the resistance together?",
+      "meaning": "함께 저항을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the resistance together.",
+        "How about we check the resistance together?",
+        "Would you like to check the resistance with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-93",
+      "departmentId": "electric",
+      "day": 93,
+      "task": "connect the antenna",
+      "text": "Shall we connect the antenna together?",
+      "meaning": "함께 안테나를 연결하는 건 어때요?",
+      "similar": [
+        "Let's connect the antenna together.",
+        "How about we connect the antenna together?",
+        "Would you like to connect the antenna with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-94",
+      "departmentId": "electric",
+      "day": 94,
+      "task": "replace the component",
+      "text": "Shall we replace the component together?",
+      "meaning": "함께 부품을 교체하는 건 어때요?",
+      "similar": [
+        "Let's replace the component together.",
+        "How about we replace the component together?",
+        "Would you like to replace the component with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-95",
+      "departmentId": "electric",
+      "day": 95,
+      "task": "inspect the power supply",
+      "text": "Shall we inspect the power supply together?",
+      "meaning": "함께 전원 공급 장치를 점검하는 건 어때요?",
+      "similar": [
+        "Let's inspect the power supply together.",
+        "How about we inspect the power supply together?",
+        "Would you like to inspect the power supply with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-96",
+      "departmentId": "electric",
+      "day": 96,
+      "task": "solder the joint",
+      "text": "Shall we solder the joint together?",
+      "meaning": "함께 접합부를 납땜하는 건 어때요?",
+      "similar": [
+        "Let's solder the joint together.",
+        "How about we solder the joint together?",
+        "Would you like to solder the joint with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-97",
+      "departmentId": "electric",
+      "day": 97,
+      "task": "test the network",
+      "text": "Shall we test the network together?",
+      "meaning": "함께 네트워크를 테스트하는 건 어때요?",
+      "similar": [
+        "Let's test the network together.",
+        "How about we test the network together?",
+        "Would you like to test the network with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-98",
+      "departmentId": "electric",
+      "day": 98,
+      "task": "check the grounding",
+      "text": "Shall we check the grounding together?",
+      "meaning": "함께 접지 상태를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the grounding together.",
+        "How about we check the grounding together?",
+        "Would you like to check the grounding with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-99",
+      "departmentId": "electric",
+      "day": 99,
+      "task": "record the readings",
+      "text": "Shall we record the readings together?",
+      "meaning": "함께 측정값을 기록하는 건 어때요?",
+      "similar": [
+        "Let's record the readings together.",
+        "How about we record the readings together?",
+        "Would you like to record the readings with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "electric-100",
+      "departmentId": "electric",
+      "day": 100,
+      "task": "review the safety checklist",
+      "text": "Shall we review the safety checklist together?",
+      "meaning": "함께 안전 점검표를 검토하는 건 어때요?",
+      "similar": [
+        "Let's review the safety checklist together.",
+        "How about we review the safety checklist together?",
+        "Would you like to review the safety checklist with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    }
+  ]
+}

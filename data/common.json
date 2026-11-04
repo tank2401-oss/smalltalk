@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "app": {
+    "title": "마음을 열어주는 스몰토크",
+    "shortTitle": "스몰토크",
+    "tagline": "마음을 열어주는 작은 대화",
+    "footer": "SMALL TALK, BIG POSSIBILITIES.",
+    "storageKey": "smalltalk.v1"
+  },
+  "learning": {
+    "timezone": "Asia/Seoul",
+    "defaultSpeechRate": 0.85,
+    "quizOptionCount": 4
+  },
+  "navigation": [
+    {
+      "id": "study",
+      "label": "학습"
+    },
+    {
+      "id": "quiz",
+      "label": "퀴즈"
+    },
+    {
+      "id": "history",
+      "label": "학습기록"
+    },
+    {
+      "id": "settings",
+      "label": "설정"
+    }
+  ],
+  "departments": [
+    {
+      "id": "beauty",
+      "name": "뷰티",
+      "en": "BEAUTY",
+      "icon": "✦",
+      "color": "#db7e9b",
+      "description": "고객과 마음을 잇는 한마디",
+      "file": "beauty.json",
+      "active": true
+    },
+    {
+      "id": "electric",
+      "name": "전기전자통신",
+      "en": "ELECTRONICS",
+      "icon": "ϟ",
+      "color": "#d8a348",
+      "description": "안전하고 정확하게 소통하는 영어",
+      "file": "electric.json",
+      "active": true
+    },
+    {
+      "id": "it",
+      "name": "IT·SW",
+      "en": "IT & SOFTWARE",
+      "icon": "⌘",
+      "color": "#7d71cf",
+      "description": "함께 만드는 코드, 함께 나누는 대화",
+      "file": "it-sw.json",
+      "active": true
+    },
+    {
+      "id": "machine",
+      "name": "기계",
+      "en": "MECHANICAL",
+      "icon": "⚙",
+      "color": "#5a9f8c",
+      "description": "현장에서 함께 일하는 든든한 영어",
+      "file": "machine.json",
+      "active": true
+    }
+  ]
+}

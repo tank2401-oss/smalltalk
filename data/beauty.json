@@ -1,0 +1,1606 @@
+{
+  "schemaVersion": 1,
+  "departmentId": "beauty",
+  "expressions": [
+    {
+      "id": "beauty-1",
+      "departmentId": "beauty",
+      "day": 1,
+      "task": "recommend a hairstyle",
+      "text": "Could you help me recommend a hairstyle?",
+      "meaning": "헤어스타일을 추천하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me recommend a hairstyle?",
+        "Could you give me a hand as I recommend a hairstyle?",
+        "I'd appreciate your help as I recommend a hairstyle."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-2",
+      "departmentId": "beauty",
+      "day": 2,
+      "task": "check your skin type",
+      "text": "Could you help me check your skin type?",
+      "meaning": "피부 타입을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check your skin type?",
+        "Could you give me a hand as I check your skin type?",
+        "I'd appreciate your help as I check your skin type."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-3",
+      "departmentId": "beauty",
+      "day": 3,
+      "task": "choose a nail color",
+      "text": "Could you help me choose a nail color?",
+      "meaning": "네일 색상을 고르는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me choose a nail color?",
+        "Could you give me a hand as I choose a nail color?",
+        "I'd appreciate your help as I choose a nail color."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-4",
+      "departmentId": "beauty",
+      "day": 4,
+      "task": "wash your hair",
+      "text": "Could you help me wash your hair?",
+      "meaning": "머리를 감기는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me wash your hair?",
+        "Could you give me a hand as I wash your hair?",
+        "I'd appreciate your help as I wash your hair."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-5",
+      "departmentId": "beauty",
+      "day": 5,
+      "task": "trim your bangs",
+      "text": "Could you help me trim your bangs?",
+      "meaning": "앞머리를 다듬는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me trim your bangs?",
+        "Could you give me a hand as I trim your bangs?",
+        "I'd appreciate your help as I trim your bangs."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-6",
+      "departmentId": "beauty",
+      "day": 6,
+      "task": "apply sunscreen",
+      "text": "Could you help me apply sunscreen?",
+      "meaning": "자외선 차단제를 바르는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me apply sunscreen?",
+        "Could you give me a hand as I apply sunscreen?",
+        "I'd appreciate your help as I apply sunscreen."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-7",
+      "departmentId": "beauty",
+      "day": 7,
+      "task": "prepare the makeup brushes",
+      "text": "Could you help me prepare the makeup brushes?",
+      "meaning": "메이크업 브러시를 준비하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me prepare the makeup brushes?",
+        "Could you give me a hand as I prepare the makeup brushes?",
+        "I'd appreciate your help as I prepare the makeup brushes."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-8",
+      "departmentId": "beauty",
+      "day": 8,
+      "task": "clean the tools",
+      "text": "Could you help me clean the tools?",
+      "meaning": "도구를 세척하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me clean the tools?",
+        "Could you give me a hand as I clean the tools?",
+        "I'd appreciate your help as I clean the tools."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-9",
+      "departmentId": "beauty",
+      "day": 9,
+      "task": "adjust the water temperature",
+      "text": "Could you help me adjust the water temperature?",
+      "meaning": "물 온도를 조절하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me adjust the water temperature?",
+        "Could you give me a hand as I adjust the water temperature?",
+        "I'd appreciate your help as I adjust the water temperature."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-10",
+      "departmentId": "beauty",
+      "day": 10,
+      "task": "dry your hair",
+      "text": "Could you help me dry your hair?",
+      "meaning": "머리를 말리는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me dry your hair?",
+        "Could you give me a hand as I dry your hair?",
+        "I'd appreciate your help as I dry your hair."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-11",
+      "departmentId": "beauty",
+      "day": 11,
+      "task": "book an appointment",
+      "text": "Could you help me book an appointment?",
+      "meaning": "예약하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me book an appointment?",
+        "Could you give me a hand as I book an appointment?",
+        "I'd appreciate your help as I book an appointment."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-12",
+      "departmentId": "beauty",
+      "day": 12,
+      "task": "mix the hair color",
+      "text": "Could you help me mix the hair color?",
+      "meaning": "염색약을 섞는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me mix the hair color?",
+        "Could you give me a hand as I mix the hair color?",
+        "I'd appreciate your help as I mix the hair color."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-13",
+      "departmentId": "beauty",
+      "day": 13,
+      "task": "check for allergies",
+      "text": "Could you help me check for allergies?",
+      "meaning": "알레르기가 있는지 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check for allergies?",
+        "Could you give me a hand as I check for allergies?",
+        "I'd appreciate your help as I check for allergies."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-14",
+      "departmentId": "beauty",
+      "day": 14,
+      "task": "apply the base coat",
+      "text": "Could you help me apply the base coat?",
+      "meaning": "베이스 코트를 바르는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me apply the base coat?",
+        "Could you give me a hand as I apply the base coat?",
+        "I'd appreciate your help as I apply the base coat."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-15",
+      "departmentId": "beauty",
+      "day": 15,
+      "task": "remove the makeup",
+      "text": "Could you help me remove the makeup?",
+      "meaning": "메이크업을 지우는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me remove the makeup?",
+        "Could you give me a hand as I remove the makeup?",
+        "I'd appreciate your help as I remove the makeup."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-16",
+      "departmentId": "beauty",
+      "day": 16,
+      "task": "prepare a clean towel",
+      "text": "Could you help me prepare a clean towel?",
+      "meaning": "깨끗한 수건을 준비하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me prepare a clean towel?",
+        "Could you give me a hand as I prepare a clean towel?",
+        "I'd appreciate your help as I prepare a clean towel."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-17",
+      "departmentId": "beauty",
+      "day": 17,
+      "task": "style your hair",
+      "text": "Could you help me style your hair?",
+      "meaning": "머리를 스타일링하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me style your hair?",
+        "Could you give me a hand as I style your hair?",
+        "I'd appreciate your help as I style your hair."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-18",
+      "departmentId": "beauty",
+      "day": 18,
+      "task": "shape your eyebrows",
+      "text": "Could you help me shape your eyebrows?",
+      "meaning": "눈썹 모양을 다듬는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me shape your eyebrows?",
+        "Could you give me a hand as I shape your eyebrows?",
+        "I'd appreciate your help as I shape your eyebrows."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-19",
+      "departmentId": "beauty",
+      "day": 19,
+      "task": "test the product",
+      "text": "Could you help me test the product?",
+      "meaning": "제품을 테스트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me test the product?",
+        "Could you give me a hand as I test the product?",
+        "I'd appreciate your help as I test the product."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-20",
+      "departmentId": "beauty",
+      "day": 20,
+      "task": "explain the treatment",
+      "text": "Could you help me explain the treatment?",
+      "meaning": "관리 과정을 설명하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me explain the treatment?",
+        "Could you give me a hand as I explain the treatment?",
+        "I'd appreciate your help as I explain the treatment."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-21",
+      "departmentId": "beauty",
+      "day": 21,
+      "task": "moisturize your skin",
+      "text": "Could you help me moisturize your skin?",
+      "meaning": "피부에 수분을 공급하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me moisturize your skin?",
+        "Could you give me a hand as I moisturize your skin?",
+        "I'd appreciate your help as I moisturize your skin."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-22",
+      "departmentId": "beauty",
+      "day": 22,
+      "task": "check the mirror",
+      "text": "Could you help me check the mirror?",
+      "meaning": "거울을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the mirror?",
+        "Could you give me a hand as I check the mirror?",
+        "I'd appreciate your help as I check the mirror."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-23",
+      "departmentId": "beauty",
+      "day": 23,
+      "task": "sanitize the workstation",
+      "text": "Could you help me sanitize the workstation?",
+      "meaning": "작업대를 소독하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me sanitize the workstation?",
+        "Could you give me a hand as I sanitize the workstation?",
+        "I'd appreciate your help as I sanitize the workstation."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-24",
+      "departmentId": "beauty",
+      "day": 24,
+      "task": "select a lipstick shade",
+      "text": "Could you help me select a lipstick shade?",
+      "meaning": "립스틱 색상을 고르는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me select a lipstick shade?",
+        "Could you give me a hand as I select a lipstick shade?",
+        "I'd appreciate your help as I select a lipstick shade."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-25",
+      "departmentId": "beauty",
+      "day": 25,
+      "task": "confirm the appointment",
+      "text": "Could you help me confirm the appointment?",
+      "meaning": "예약을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me confirm the appointment?",
+        "Could you give me a hand as I confirm the appointment?",
+        "I'd appreciate your help as I confirm the appointment."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "beauty-26",
+      "departmentId": "beauty",
+      "day": 26,
+      "task": "recommend a hairstyle",
+      "text": "I'm ready to recommend a hairstyle.",
+      "meaning": "헤어스타일을 추천할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to recommend a hairstyle.",
+        "I can recommend a hairstyle now.",
+        "I'm prepared to recommend a hairstyle."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-27",
+      "departmentId": "beauty",
+      "day": 27,
+      "task": "check your skin type",
+      "text": "I'm ready to check your skin type.",
+      "meaning": "피부 타입을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check your skin type.",
+        "I can check your skin type now.",
+        "I'm prepared to check your skin type."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-28",
+      "departmentId": "beauty",
+      "day": 28,
+      "task": "choose a nail color",
+      "text": "I'm ready to choose a nail color.",
+      "meaning": "네일 색상을 고를 준비가 되었어요.",
+      "similar": [
+        "I'm all set to choose a nail color.",
+        "I can choose a nail color now.",
+        "I'm prepared to choose a nail color."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-29",
+      "departmentId": "beauty",
+      "day": 29,
+      "task": "wash your hair",
+      "text": "I'm ready to wash your hair.",
+      "meaning": "머리를 감길 준비가 되었어요.",
+      "similar": [
+        "I'm all set to wash your hair.",
+        "I can wash your hair now.",
+        "I'm prepared to wash your hair."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-30",
+      "departmentId": "beauty",
+      "day": 30,
+      "task": "trim your bangs",
+      "text": "I'm ready to trim your bangs.",
+      "meaning": "앞머리를 다듬을 준비가 되었어요.",
+      "similar": [
+        "I'm all set to trim your bangs.",
+        "I can trim your bangs now.",
+        "I'm prepared to trim your bangs."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-31",
+      "departmentId": "beauty",
+      "day": 31,
+      "task": "apply sunscreen",
+      "text": "I'm ready to apply sunscreen.",
+      "meaning": "자외선 차단제를 바를 준비가 되었어요.",
+      "similar": [
+        "I'm all set to apply sunscreen.",
+        "I can apply sunscreen now.",
+        "I'm prepared to apply sunscreen."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-32",
+      "departmentId": "beauty",
+      "day": 32,
+      "task": "prepare the makeup brushes",
+      "text": "I'm ready to prepare the makeup brushes.",
+      "meaning": "메이크업 브러시를 준비할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to prepare the makeup brushes.",
+        "I can prepare the makeup brushes now.",
+        "I'm prepared to prepare the makeup brushes."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-33",
+      "departmentId": "beauty",
+      "day": 33,
+      "task": "clean the tools",
+      "text": "I'm ready to clean the tools.",
+      "meaning": "도구를 세척할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to clean the tools.",
+        "I can clean the tools now.",
+        "I'm prepared to clean the tools."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-34",
+      "departmentId": "beauty",
+      "day": 34,
+      "task": "adjust the water temperature",
+      "text": "I'm ready to adjust the water temperature.",
+      "meaning": "물 온도를 조절할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to adjust the water temperature.",
+        "I can adjust the water temperature now.",
+        "I'm prepared to adjust the water temperature."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-35",
+      "departmentId": "beauty",
+      "day": 35,
+      "task": "dry your hair",
+      "text": "I'm ready to dry your hair.",
+      "meaning": "머리를 말릴 준비가 되었어요.",
+      "similar": [
+        "I'm all set to dry your hair.",
+        "I can dry your hair now.",
+        "I'm prepared to dry your hair."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-36",
+      "departmentId": "beauty",
+      "day": 36,
+      "task": "book an appointment",
+      "text": "I'm ready to book an appointment.",
+      "meaning": "예약할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to book an appointment.",
+        "I can book an appointment now.",
+        "I'm prepared to book an appointment."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-37",
+      "departmentId": "beauty",
+      "day": 37,
+      "task": "mix the hair color",
+      "text": "I'm ready to mix the hair color.",
+      "meaning": "염색약을 섞다 준비가 되었어요.",
+      "similar": [
+        "I'm all set to mix the hair color.",
+        "I can mix the hair color now.",
+        "I'm prepared to mix the hair color."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-38",
+      "departmentId": "beauty",
+      "day": 38,
+      "task": "check for allergies",
+      "text": "I'm ready to check for allergies.",
+      "meaning": "알레르기가 있는지 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check for allergies.",
+        "I can check for allergies now.",
+        "I'm prepared to check for allergies."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-39",
+      "departmentId": "beauty",
+      "day": 39,
+      "task": "apply the base coat",
+      "text": "I'm ready to apply the base coat.",
+      "meaning": "베이스 코트를 바를 준비가 되었어요.",
+      "similar": [
+        "I'm all set to apply the base coat.",
+        "I can apply the base coat now.",
+        "I'm prepared to apply the base coat."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-40",
+      "departmentId": "beauty",
+      "day": 40,
+      "task": "remove the makeup",
+      "text": "I'm ready to remove the makeup.",
+      "meaning": "메이크업을 지우다 준비가 되었어요.",
+      "similar": [
+        "I'm all set to remove the makeup.",
+        "I can remove the makeup now.",
+        "I'm prepared to remove the makeup."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-41",
+      "departmentId": "beauty",
+      "day": 41,
+      "task": "prepare a clean towel",
+      "text": "I'm ready to prepare a clean towel.",
+      "meaning": "깨끗한 수건을 준비할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to prepare a clean towel.",
+        "I can prepare a clean towel now.",
+        "I'm prepared to prepare a clean towel."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-42",
+      "departmentId": "beauty",
+      "day": 42,
+      "task": "style your hair",
+      "text": "I'm ready to style your hair.",
+      "meaning": "머리를 스타일링할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to style your hair.",
+        "I can style your hair now.",
+        "I'm prepared to style your hair."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-43",
+      "departmentId": "beauty",
+      "day": 43,
+      "task": "shape your eyebrows",
+      "text": "I'm ready to shape your eyebrows.",
+      "meaning": "눈썹 모양을 다듬을 준비가 되었어요.",
+      "similar": [
+        "I'm all set to shape your eyebrows.",
+        "I can shape your eyebrows now.",
+        "I'm prepared to shape your eyebrows."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-44",
+      "departmentId": "beauty",
+      "day": 44,
+      "task": "test the product",
+      "text": "I'm ready to test the product.",
+      "meaning": "제품을 테스트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to test the product.",
+        "I can test the product now.",
+        "I'm prepared to test the product."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-45",
+      "departmentId": "beauty",
+      "day": 45,
+      "task": "explain the treatment",
+      "text": "I'm ready to explain the treatment.",
+      "meaning": "관리 과정을 설명할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to explain the treatment.",
+        "I can explain the treatment now.",
+        "I'm prepared to explain the treatment."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-46",
+      "departmentId": "beauty",
+      "day": 46,
+      "task": "moisturize your skin",
+      "text": "I'm ready to moisturize your skin.",
+      "meaning": "피부에 수분을 공급할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to moisturize your skin.",
+        "I can moisturize your skin now.",
+        "I'm prepared to moisturize your skin."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-47",
+      "departmentId": "beauty",
+      "day": 47,
+      "task": "check the mirror",
+      "text": "I'm ready to check the mirror.",
+      "meaning": "거울을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the mirror.",
+        "I can check the mirror now.",
+        "I'm prepared to check the mirror."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-48",
+      "departmentId": "beauty",
+      "day": 48,
+      "task": "sanitize the workstation",
+      "text": "I'm ready to sanitize the workstation.",
+      "meaning": "작업대를 소독할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to sanitize the workstation.",
+        "I can sanitize the workstation now.",
+        "I'm prepared to sanitize the workstation."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-49",
+      "departmentId": "beauty",
+      "day": 49,
+      "task": "select a lipstick shade",
+      "text": "I'm ready to select a lipstick shade.",
+      "meaning": "립스틱 색상을 고를 준비가 되었어요.",
+      "similar": [
+        "I'm all set to select a lipstick shade.",
+        "I can select a lipstick shade now.",
+        "I'm prepared to select a lipstick shade."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-50",
+      "departmentId": "beauty",
+      "day": 50,
+      "task": "confirm the appointment",
+      "text": "I'm ready to confirm the appointment.",
+      "meaning": "예약을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to confirm the appointment.",
+        "I can confirm the appointment now.",
+        "I'm prepared to confirm the appointment."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "beauty-51",
+      "departmentId": "beauty",
+      "day": 51,
+      "task": "recommend a hairstyle",
+      "text": "Let me show you how to recommend a hairstyle.",
+      "meaning": "헤어스타일을 추천하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to recommend a hairstyle.",
+        "Let me explain how to recommend a hairstyle.",
+        "I can show you how to recommend a hairstyle."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-52",
+      "departmentId": "beauty",
+      "day": 52,
+      "task": "check your skin type",
+      "text": "Let me show you how to check your skin type.",
+      "meaning": "피부 타입을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check your skin type.",
+        "Let me explain how to check your skin type.",
+        "I can show you how to check your skin type."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-53",
+      "departmentId": "beauty",
+      "day": 53,
+      "task": "choose a nail color",
+      "text": "Let me show you how to choose a nail color.",
+      "meaning": "네일 색상을 고르는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to choose a nail color.",
+        "Let me explain how to choose a nail color.",
+        "I can show you how to choose a nail color."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-54",
+      "departmentId": "beauty",
+      "day": 54,
+      "task": "wash your hair",
+      "text": "Let me show you how to wash your hair.",
+      "meaning": "머리를 감기는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to wash your hair.",
+        "Let me explain how to wash your hair.",
+        "I can show you how to wash your hair."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-55",
+      "departmentId": "beauty",
+      "day": 55,
+      "task": "trim your bangs",
+      "text": "Let me show you how to trim your bangs.",
+      "meaning": "앞머리를 다듬는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to trim your bangs.",
+        "Let me explain how to trim your bangs.",
+        "I can show you how to trim your bangs."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-56",
+      "departmentId": "beauty",
+      "day": 56,
+      "task": "apply sunscreen",
+      "text": "Let me show you how to apply sunscreen.",
+      "meaning": "자외선 차단제를 바르는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to apply sunscreen.",
+        "Let me explain how to apply sunscreen.",
+        "I can show you how to apply sunscreen."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-57",
+      "departmentId": "beauty",
+      "day": 57,
+      "task": "prepare the makeup brushes",
+      "text": "Let me show you how to prepare the makeup brushes.",
+      "meaning": "메이크업 브러시를 준비하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to prepare the makeup brushes.",
+        "Let me explain how to prepare the makeup brushes.",
+        "I can show you how to prepare the makeup brushes."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-58",
+      "departmentId": "beauty",
+      "day": 58,
+      "task": "clean the tools",
+      "text": "Let me show you how to clean the tools.",
+      "meaning": "도구를 세척하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to clean the tools.",
+        "Let me explain how to clean the tools.",
+        "I can show you how to clean the tools."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-59",
+      "departmentId": "beauty",
+      "day": 59,
+      "task": "adjust the water temperature",
+      "text": "Let me show you how to adjust the water temperature.",
+      "meaning": "물 온도를 조절하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to adjust the water temperature.",
+        "Let me explain how to adjust the water temperature.",
+        "I can show you how to adjust the water temperature."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-60",
+      "departmentId": "beauty",
+      "day": 60,
+      "task": "dry your hair",
+      "text": "Let me show you how to dry your hair.",
+      "meaning": "머리를 말리는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to dry your hair.",
+        "Let me explain how to dry your hair.",
+        "I can show you how to dry your hair."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-61",
+      "departmentId": "beauty",
+      "day": 61,
+      "task": "book an appointment",
+      "text": "Let me show you how to book an appointment.",
+      "meaning": "예약하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to book an appointment.",
+        "Let me explain how to book an appointment.",
+        "I can show you how to book an appointment."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-62",
+      "departmentId": "beauty",
+      "day": 62,
+      "task": "mix the hair color",
+      "text": "Let me show you how to mix the hair color.",
+      "meaning": "염색약을 섞는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to mix the hair color.",
+        "Let me explain how to mix the hair color.",
+        "I can show you how to mix the hair color."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-63",
+      "departmentId": "beauty",
+      "day": 63,
+      "task": "check for allergies",
+      "text": "Let me show you how to check for allergies.",
+      "meaning": "알레르기가 있는지 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check for allergies.",
+        "Let me explain how to check for allergies.",
+        "I can show you how to check for allergies."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-64",
+      "departmentId": "beauty",
+      "day": 64,
+      "task": "apply the base coat",
+      "text": "Let me show you how to apply the base coat.",
+      "meaning": "베이스 코트를 바르는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to apply the base coat.",
+        "Let me explain how to apply the base coat.",
+        "I can show you how to apply the base coat."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-65",
+      "departmentId": "beauty",
+      "day": 65,
+      "task": "remove the makeup",
+      "text": "Let me show you how to remove the makeup.",
+      "meaning": "메이크업을 지우는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to remove the makeup.",
+        "Let me explain how to remove the makeup.",
+        "I can show you how to remove the makeup."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-66",
+      "departmentId": "beauty",
+      "day": 66,
+      "task": "prepare a clean towel",
+      "text": "Let me show you how to prepare a clean towel.",
+      "meaning": "깨끗한 수건을 준비하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to prepare a clean towel.",
+        "Let me explain how to prepare a clean towel.",
+        "I can show you how to prepare a clean towel."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-67",
+      "departmentId": "beauty",
+      "day": 67,
+      "task": "style your hair",
+      "text": "Let me show you how to style your hair.",
+      "meaning": "머리를 스타일링하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to style your hair.",
+        "Let me explain how to style your hair.",
+        "I can show you how to style your hair."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-68",
+      "departmentId": "beauty",
+      "day": 68,
+      "task": "shape your eyebrows",
+      "text": "Let me show you how to shape your eyebrows.",
+      "meaning": "눈썹 모양을 다듬는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to shape your eyebrows.",
+        "Let me explain how to shape your eyebrows.",
+        "I can show you how to shape your eyebrows."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-69",
+      "departmentId": "beauty",
+      "day": 69,
+      "task": "test the product",
+      "text": "Let me show you how to test the product.",
+      "meaning": "제품을 테스트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to test the product.",
+        "Let me explain how to test the product.",
+        "I can show you how to test the product."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-70",
+      "departmentId": "beauty",
+      "day": 70,
+      "task": "explain the treatment",
+      "text": "Let me show you how to explain the treatment.",
+      "meaning": "관리 과정을 설명하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to explain the treatment.",
+        "Let me explain how to explain the treatment.",
+        "I can show you how to explain the treatment."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-71",
+      "departmentId": "beauty",
+      "day": 71,
+      "task": "moisturize your skin",
+      "text": "Let me show you how to moisturize your skin.",
+      "meaning": "피부에 수분을 공급하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to moisturize your skin.",
+        "Let me explain how to moisturize your skin.",
+        "I can show you how to moisturize your skin."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-72",
+      "departmentId": "beauty",
+      "day": 72,
+      "task": "check the mirror",
+      "text": "Let me show you how to check the mirror.",
+      "meaning": "거울을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the mirror.",
+        "Let me explain how to check the mirror.",
+        "I can show you how to check the mirror."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-73",
+      "departmentId": "beauty",
+      "day": 73,
+      "task": "sanitize the workstation",
+      "text": "Let me show you how to sanitize the workstation.",
+      "meaning": "작업대를 소독하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to sanitize the workstation.",
+        "Let me explain how to sanitize the workstation.",
+        "I can show you how to sanitize the workstation."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-74",
+      "departmentId": "beauty",
+      "day": 74,
+      "task": "select a lipstick shade",
+      "text": "Let me show you how to select a lipstick shade.",
+      "meaning": "립스틱 색상을 고르는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to select a lipstick shade.",
+        "Let me explain how to select a lipstick shade.",
+        "I can show you how to select a lipstick shade."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-75",
+      "departmentId": "beauty",
+      "day": 75,
+      "task": "confirm the appointment",
+      "text": "Let me show you how to confirm the appointment.",
+      "meaning": "예약을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to confirm the appointment.",
+        "Let me explain how to confirm the appointment.",
+        "I can show you how to confirm the appointment."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "beauty-76",
+      "departmentId": "beauty",
+      "day": 76,
+      "task": "recommend a hairstyle",
+      "text": "Shall we recommend a hairstyle together?",
+      "meaning": "함께 헤어스타일을 추천하는 건 어때요?",
+      "similar": [
+        "Let's recommend a hairstyle together.",
+        "How about we recommend a hairstyle together?",
+        "Would you like to recommend a hairstyle with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-77",
+      "departmentId": "beauty",
+      "day": 77,
+      "task": "check your skin type",
+      "text": "Shall we check your skin type together?",
+      "meaning": "함께 피부 타입을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check your skin type together.",
+        "How about we check your skin type together?",
+        "Would you like to check your skin type with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-78",
+      "departmentId": "beauty",
+      "day": 78,
+      "task": "choose a nail color",
+      "text": "Shall we choose a nail color together?",
+      "meaning": "함께 네일 색상을 고르는 건 어때요?",
+      "similar": [
+        "Let's choose a nail color together.",
+        "How about we choose a nail color together?",
+        "Would you like to choose a nail color with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-79",
+      "departmentId": "beauty",
+      "day": 79,
+      "task": "wash your hair",
+      "text": "Shall we wash your hair together?",
+      "meaning": "함께 머리를 감기는 건 어때요?",
+      "similar": [
+        "Let's wash your hair together.",
+        "How about we wash your hair together?",
+        "Would you like to wash your hair with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-80",
+      "departmentId": "beauty",
+      "day": 80,
+      "task": "trim your bangs",
+      "text": "Shall we trim your bangs together?",
+      "meaning": "함께 앞머리를 다듬는 건 어때요?",
+      "similar": [
+        "Let's trim your bangs together.",
+        "How about we trim your bangs together?",
+        "Would you like to trim your bangs with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-81",
+      "departmentId": "beauty",
+      "day": 81,
+      "task": "apply sunscreen",
+      "text": "Shall we apply sunscreen together?",
+      "meaning": "함께 자외선 차단제를 바르는 건 어때요?",
+      "similar": [
+        "Let's apply sunscreen together.",
+        "How about we apply sunscreen together?",
+        "Would you like to apply sunscreen with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-82",
+      "departmentId": "beauty",
+      "day": 82,
+      "task": "prepare the makeup brushes",
+      "text": "Shall we prepare the makeup brushes together?",
+      "meaning": "함께 메이크업 브러시를 준비하는 건 어때요?",
+      "similar": [
+        "Let's prepare the makeup brushes together.",
+        "How about we prepare the makeup brushes together?",
+        "Would you like to prepare the makeup brushes with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-83",
+      "departmentId": "beauty",
+      "day": 83,
+      "task": "clean the tools",
+      "text": "Shall we clean the tools together?",
+      "meaning": "함께 도구를 세척하는 건 어때요?",
+      "similar": [
+        "Let's clean the tools together.",
+        "How about we clean the tools together?",
+        "Would you like to clean the tools with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-84",
+      "departmentId": "beauty",
+      "day": 84,
+      "task": "adjust the water temperature",
+      "text": "Shall we adjust the water temperature together?",
+      "meaning": "함께 물 온도를 조절하는 건 어때요?",
+      "similar": [
+        "Let's adjust the water temperature together.",
+        "How about we adjust the water temperature together?",
+        "Would you like to adjust the water temperature with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-85",
+      "departmentId": "beauty",
+      "day": 85,
+      "task": "dry your hair",
+      "text": "Shall we dry your hair together?",
+      "meaning": "함께 머리를 말리는 건 어때요?",
+      "similar": [
+        "Let's dry your hair together.",
+        "How about we dry your hair together?",
+        "Would you like to dry your hair with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-86",
+      "departmentId": "beauty",
+      "day": 86,
+      "task": "book an appointment",
+      "text": "Shall we book an appointment together?",
+      "meaning": "함께 예약하는 건 어때요?",
+      "similar": [
+        "Let's book an appointment together.",
+        "How about we book an appointment together?",
+        "Would you like to book an appointment with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-87",
+      "departmentId": "beauty",
+      "day": 87,
+      "task": "mix the hair color",
+      "text": "Shall we mix the hair color together?",
+      "meaning": "함께 염색약을 섞는 건 어때요?",
+      "similar": [
+        "Let's mix the hair color together.",
+        "How about we mix the hair color together?",
+        "Would you like to mix the hair color with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-88",
+      "departmentId": "beauty",
+      "day": 88,
+      "task": "check for allergies",
+      "text": "Shall we check for allergies together?",
+      "meaning": "함께 알레르기가 있는지 확인하는 건 어때요?",
+      "similar": [
+        "Let's check for allergies together.",
+        "How about we check for allergies together?",
+        "Would you like to check for allergies with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-89",
+      "departmentId": "beauty",
+      "day": 89,
+      "task": "apply the base coat",
+      "text": "Shall we apply the base coat together?",
+      "meaning": "함께 베이스 코트를 바르는 건 어때요?",
+      "similar": [
+        "Let's apply the base coat together.",
+        "How about we apply the base coat together?",
+        "Would you like to apply the base coat with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-90",
+      "departmentId": "beauty",
+      "day": 90,
+      "task": "remove the makeup",
+      "text": "Shall we remove the makeup together?",
+      "meaning": "함께 메이크업을 지우는 건 어때요?",
+      "similar": [
+        "Let's remove the makeup together.",
+        "How about we remove the makeup together?",
+        "Would you like to remove the makeup with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-91",
+      "departmentId": "beauty",
+      "day": 91,
+      "task": "prepare a clean towel",
+      "text": "Shall we prepare a clean towel together?",
+      "meaning": "함께 깨끗한 수건을 준비하는 건 어때요?",
+      "similar": [
+        "Let's prepare a clean towel together.",
+        "How about we prepare a clean towel together?",
+        "Would you like to prepare a clean towel with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-92",
+      "departmentId": "beauty",
+      "day": 92,
+      "task": "style your hair",
+      "text": "Shall we style your hair together?",
+      "meaning": "함께 머리를 스타일링하는 건 어때요?",
+      "similar": [
+        "Let's style your hair together.",
+        "How about we style your hair together?",
+        "Would you like to style your hair with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-93",
+      "departmentId": "beauty",
+      "day": 93,
+      "task": "shape your eyebrows",
+      "text": "Shall we shape your eyebrows together?",
+      "meaning": "함께 눈썹 모양을 다듬는 건 어때요?",
+      "similar": [
+        "Let's shape your eyebrows together.",
+        "How about we shape your eyebrows together?",
+        "Would you like to shape your eyebrows with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-94",
+      "departmentId": "beauty",
+      "day": 94,
+      "task": "test the product",
+      "text": "Shall we test the product together?",
+      "meaning": "함께 제품을 테스트하는 건 어때요?",
+      "similar": [
+        "Let's test the product together.",
+        "How about we test the product together?",
+        "Would you like to test the product with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-95",
+      "departmentId": "beauty",
+      "day": 95,
+      "task": "explain the treatment",
+      "text": "Shall we explain the treatment together?",
+      "meaning": "함께 관리 과정을 설명하는 건 어때요?",
+      "similar": [
+        "Let's explain the treatment together.",
+        "How about we explain the treatment together?",
+        "Would you like to explain the treatment with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-96",
+      "departmentId": "beauty",
+      "day": 96,
+      "task": "moisturize your skin",
+      "text": "Shall we moisturize your skin together?",
+      "meaning": "함께 피부에 수분을 공급하는 건 어때요?",
+      "similar": [
+        "Let's moisturize your skin together.",
+        "How about we moisturize your skin together?",
+        "Would you like to moisturize your skin with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-97",
+      "departmentId": "beauty",
+      "day": 97,
+      "task": "check the mirror",
+      "text": "Shall we check the mirror together?",
+      "meaning": "함께 거울을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the mirror together.",
+        "How about we check the mirror together?",
+        "Would you like to check the mirror with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-98",
+      "departmentId": "beauty",
+      "day": 98,
+      "task": "sanitize the workstation",
+      "text": "Shall we sanitize the workstation together?",
+      "meaning": "함께 작업대를 소독하는 건 어때요?",
+      "similar": [
+        "Let's sanitize the workstation together.",
+        "How about we sanitize the workstation together?",
+        "Would you like to sanitize the workstation with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-99",
+      "departmentId": "beauty",
+      "day": 99,
+      "task": "select a lipstick shade",
+      "text": "Shall we select a lipstick shade together?",
+      "meaning": "함께 립스틱 색상을 고르는 건 어때요?",
+      "similar": [
+        "Let's select a lipstick shade together.",
+        "How about we select a lipstick shade together?",
+        "Would you like to select a lipstick shade with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "beauty-100",
+      "departmentId": "beauty",
+      "day": 100,
+      "task": "confirm the appointment",
+      "text": "Shall we confirm the appointment together?",
+      "meaning": "함께 예약을 확인하는 건 어때요?",
+      "similar": [
+        "Let's confirm the appointment together.",
+        "How about we confirm the appointment together?",
+        "Would you like to confirm the appointment with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    }
+  ]
+}

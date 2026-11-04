@@ -1,0 +1,1606 @@
+{
+  "schemaVersion": 1,
+  "departmentId": "machine",
+  "expressions": [
+    {
+      "id": "machine-1",
+      "departmentId": "machine",
+      "day": 1,
+      "task": "check the machine",
+      "text": "Could you help me check the machine?",
+      "meaning": "기계를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the machine?",
+        "Could you give me a hand as I check the machine?",
+        "I'd appreciate your help as I check the machine."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-2",
+      "departmentId": "machine",
+      "day": 2,
+      "task": "measure the part",
+      "text": "Could you help me measure the part?",
+      "meaning": "부품을 측정하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me measure the part?",
+        "Could you give me a hand as I measure the part?",
+        "I'd appreciate your help as I measure the part."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-3",
+      "departmentId": "machine",
+      "day": 3,
+      "task": "tighten the bolt",
+      "text": "Could you help me tighten the bolt?",
+      "meaning": "볼트를 조이는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me tighten the bolt?",
+        "Could you give me a hand as I tighten the bolt?",
+        "I'd appreciate your help as I tighten the bolt."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-4",
+      "departmentId": "machine",
+      "day": 4,
+      "task": "read the drawing",
+      "text": "Could you help me read the drawing?",
+      "meaning": "도면을 읽는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me read the drawing?",
+        "Could you give me a hand as I read the drawing?",
+        "I'd appreciate your help as I read the drawing."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-5",
+      "departmentId": "machine",
+      "day": 5,
+      "task": "inspect the surface",
+      "text": "Could you help me inspect the surface?",
+      "meaning": "표면을 점검하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me inspect the surface?",
+        "Could you give me a hand as I inspect the surface?",
+        "I'd appreciate your help as I inspect the surface."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-6",
+      "departmentId": "machine",
+      "day": 6,
+      "task": "adjust the speed",
+      "text": "Could you help me adjust the speed?",
+      "meaning": "속도를 조절하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me adjust the speed?",
+        "Could you give me a hand as I adjust the speed?",
+        "I'd appreciate your help as I adjust the speed."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-7",
+      "departmentId": "machine",
+      "day": 7,
+      "task": "replace the tool",
+      "text": "Could you help me replace the tool?",
+      "meaning": "공구를 교체하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me replace the tool?",
+        "Could you give me a hand as I replace the tool?",
+        "I'd appreciate your help as I replace the tool."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-8",
+      "departmentId": "machine",
+      "day": 8,
+      "task": "check the oil level",
+      "text": "Could you help me check the oil level?",
+      "meaning": "오일 양을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the oil level?",
+        "Could you give me a hand as I check the oil level?",
+        "I'd appreciate your help as I check the oil level."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-9",
+      "departmentId": "machine",
+      "day": 9,
+      "task": "clean the workbench",
+      "text": "Could you help me clean the workbench?",
+      "meaning": "작업대를 청소하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me clean the workbench?",
+        "Could you give me a hand as I clean the workbench?",
+        "I'd appreciate your help as I clean the workbench."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-10",
+      "departmentId": "machine",
+      "day": 10,
+      "task": "wear safety goggles",
+      "text": "Could you help me wear safety goggles?",
+      "meaning": "보안경을 착용하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me wear safety goggles?",
+        "Could you give me a hand as I wear safety goggles?",
+        "I'd appreciate your help as I wear safety goggles."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-11",
+      "departmentId": "machine",
+      "day": 11,
+      "task": "test the motor",
+      "text": "Could you help me test the motor?",
+      "meaning": "모터를 테스트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me test the motor?",
+        "Could you give me a hand as I test the motor?",
+        "I'd appreciate your help as I test the motor."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-12",
+      "departmentId": "machine",
+      "day": 12,
+      "task": "align the parts",
+      "text": "Could you help me align the parts?",
+      "meaning": "부품을 정렬하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me align the parts?",
+        "Could you give me a hand as I align the parts?",
+        "I'd appreciate your help as I align the parts."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-13",
+      "departmentId": "machine",
+      "day": 13,
+      "task": "check the dimensions",
+      "text": "Could you help me check the dimensions?",
+      "meaning": "치수를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the dimensions?",
+        "Could you give me a hand as I check the dimensions?",
+        "I'd appreciate your help as I check the dimensions."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-14",
+      "departmentId": "machine",
+      "day": 14,
+      "task": "stop the machine",
+      "text": "Could you help me stop the machine?",
+      "meaning": "기계를 멈추는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me stop the machine?",
+        "Could you give me a hand as I stop the machine?",
+        "I'd appreciate your help as I stop the machine."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-15",
+      "departmentId": "machine",
+      "day": 15,
+      "task": "lubricate the bearing",
+      "text": "Could you help me lubricate the bearing?",
+      "meaning": "베어링에 윤활유를 바르는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me lubricate the bearing?",
+        "Could you give me a hand as I lubricate the bearing?",
+        "I'd appreciate your help as I lubricate the bearing."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-16",
+      "departmentId": "machine",
+      "day": 16,
+      "task": "prepare the materials",
+      "text": "Could you help me prepare the materials?",
+      "meaning": "재료를 준비하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me prepare the materials?",
+        "Could you give me a hand as I prepare the materials?",
+        "I'd appreciate your help as I prepare the materials."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-17",
+      "departmentId": "machine",
+      "day": 17,
+      "task": "inspect the weld",
+      "text": "Could you help me inspect the weld?",
+      "meaning": "용접부를 점검하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me inspect the weld?",
+        "Could you give me a hand as I inspect the weld?",
+        "I'd appreciate your help as I inspect the weld."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-18",
+      "departmentId": "machine",
+      "day": 18,
+      "task": "calibrate the instrument",
+      "text": "Could you help me calibrate the instrument?",
+      "meaning": "계측기를 교정하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me calibrate the instrument?",
+        "Could you give me a hand as I calibrate the instrument?",
+        "I'd appreciate your help as I calibrate the instrument."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-19",
+      "departmentId": "machine",
+      "day": 19,
+      "task": "check the pressure",
+      "text": "Could you help me check the pressure?",
+      "meaning": "압력을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the pressure?",
+        "Could you give me a hand as I check the pressure?",
+        "I'd appreciate your help as I check the pressure."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-20",
+      "departmentId": "machine",
+      "day": 20,
+      "task": "replace the filter",
+      "text": "Could you help me replace the filter?",
+      "meaning": "필터를 교체하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me replace the filter?",
+        "Could you give me a hand as I replace the filter?",
+        "I'd appreciate your help as I replace the filter."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-21",
+      "departmentId": "machine",
+      "day": 21,
+      "task": "secure the workpiece",
+      "text": "Could you help me secure the workpiece?",
+      "meaning": "가공물을 고정하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me secure the workpiece?",
+        "Could you give me a hand as I secure the workpiece?",
+        "I'd appreciate your help as I secure the workpiece."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-22",
+      "departmentId": "machine",
+      "day": 22,
+      "task": "check the tolerance",
+      "text": "Could you help me check the tolerance?",
+      "meaning": "공차를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the tolerance?",
+        "Could you give me a hand as I check the tolerance?",
+        "I'd appreciate your help as I check the tolerance."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-23",
+      "departmentId": "machine",
+      "day": 23,
+      "task": "remove the burrs",
+      "text": "Could you help me remove the burrs?",
+      "meaning": "버를 제거하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me remove the burrs?",
+        "Could you give me a hand as I remove the burrs?",
+        "I'd appreciate your help as I remove the burrs."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-24",
+      "departmentId": "machine",
+      "day": 24,
+      "task": "record the measurements",
+      "text": "Could you help me record the measurements?",
+      "meaning": "측정값을 기록하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me record the measurements?",
+        "Could you give me a hand as I record the measurements?",
+        "I'd appreciate your help as I record the measurements."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-25",
+      "departmentId": "machine",
+      "day": 25,
+      "task": "review the maintenance schedule",
+      "text": "Could you help me review the maintenance schedule?",
+      "meaning": "정비 일정을 검토하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me review the maintenance schedule?",
+        "Could you give me a hand as I review the maintenance schedule?",
+        "I'd appreciate your help as I review the maintenance schedule."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "machine-26",
+      "departmentId": "machine",
+      "day": 26,
+      "task": "check the machine",
+      "text": "I'm ready to check the machine.",
+      "meaning": "기계를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the machine.",
+        "I can check the machine now.",
+        "I'm prepared to check the machine."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-27",
+      "departmentId": "machine",
+      "day": 27,
+      "task": "measure the part",
+      "text": "I'm ready to measure the part.",
+      "meaning": "부품을 측정할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to measure the part.",
+        "I can measure the part now.",
+        "I'm prepared to measure the part."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-28",
+      "departmentId": "machine",
+      "day": 28,
+      "task": "tighten the bolt",
+      "text": "I'm ready to tighten the bolt.",
+      "meaning": "볼트를 조일 준비가 되었어요.",
+      "similar": [
+        "I'm all set to tighten the bolt.",
+        "I can tighten the bolt now.",
+        "I'm prepared to tighten the bolt."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-29",
+      "departmentId": "machine",
+      "day": 29,
+      "task": "read the drawing",
+      "text": "I'm ready to read the drawing.",
+      "meaning": "도면을 읽을 준비가 되었어요.",
+      "similar": [
+        "I'm all set to read the drawing.",
+        "I can read the drawing now.",
+        "I'm prepared to read the drawing."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-30",
+      "departmentId": "machine",
+      "day": 30,
+      "task": "inspect the surface",
+      "text": "I'm ready to inspect the surface.",
+      "meaning": "표면을 점검할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to inspect the surface.",
+        "I can inspect the surface now.",
+        "I'm prepared to inspect the surface."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-31",
+      "departmentId": "machine",
+      "day": 31,
+      "task": "adjust the speed",
+      "text": "I'm ready to adjust the speed.",
+      "meaning": "속도를 조절할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to adjust the speed.",
+        "I can adjust the speed now.",
+        "I'm prepared to adjust the speed."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-32",
+      "departmentId": "machine",
+      "day": 32,
+      "task": "replace the tool",
+      "text": "I'm ready to replace the tool.",
+      "meaning": "공구를 교체할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to replace the tool.",
+        "I can replace the tool now.",
+        "I'm prepared to replace the tool."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-33",
+      "departmentId": "machine",
+      "day": 33,
+      "task": "check the oil level",
+      "text": "I'm ready to check the oil level.",
+      "meaning": "오일 양을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the oil level.",
+        "I can check the oil level now.",
+        "I'm prepared to check the oil level."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-34",
+      "departmentId": "machine",
+      "day": 34,
+      "task": "clean the workbench",
+      "text": "I'm ready to clean the workbench.",
+      "meaning": "작업대를 청소할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to clean the workbench.",
+        "I can clean the workbench now.",
+        "I'm prepared to clean the workbench."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-35",
+      "departmentId": "machine",
+      "day": 35,
+      "task": "wear safety goggles",
+      "text": "I'm ready to wear safety goggles.",
+      "meaning": "보안경을 착용할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to wear safety goggles.",
+        "I can wear safety goggles now.",
+        "I'm prepared to wear safety goggles."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-36",
+      "departmentId": "machine",
+      "day": 36,
+      "task": "test the motor",
+      "text": "I'm ready to test the motor.",
+      "meaning": "모터를 테스트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to test the motor.",
+        "I can test the motor now.",
+        "I'm prepared to test the motor."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-37",
+      "departmentId": "machine",
+      "day": 37,
+      "task": "align the parts",
+      "text": "I'm ready to align the parts.",
+      "meaning": "부품을 정렬할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to align the parts.",
+        "I can align the parts now.",
+        "I'm prepared to align the parts."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-38",
+      "departmentId": "machine",
+      "day": 38,
+      "task": "check the dimensions",
+      "text": "I'm ready to check the dimensions.",
+      "meaning": "치수를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the dimensions.",
+        "I can check the dimensions now.",
+        "I'm prepared to check the dimensions."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-39",
+      "departmentId": "machine",
+      "day": 39,
+      "task": "stop the machine",
+      "text": "I'm ready to stop the machine.",
+      "meaning": "기계를 멈출 준비가 되었어요.",
+      "similar": [
+        "I'm all set to stop the machine.",
+        "I can stop the machine now.",
+        "I'm prepared to stop the machine."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-40",
+      "departmentId": "machine",
+      "day": 40,
+      "task": "lubricate the bearing",
+      "text": "I'm ready to lubricate the bearing.",
+      "meaning": "베어링에 윤활유를 바를 준비가 되었어요.",
+      "similar": [
+        "I'm all set to lubricate the bearing.",
+        "I can lubricate the bearing now.",
+        "I'm prepared to lubricate the bearing."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-41",
+      "departmentId": "machine",
+      "day": 41,
+      "task": "prepare the materials",
+      "text": "I'm ready to prepare the materials.",
+      "meaning": "재료를 준비할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to prepare the materials.",
+        "I can prepare the materials now.",
+        "I'm prepared to prepare the materials."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-42",
+      "departmentId": "machine",
+      "day": 42,
+      "task": "inspect the weld",
+      "text": "I'm ready to inspect the weld.",
+      "meaning": "용접부를 점검할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to inspect the weld.",
+        "I can inspect the weld now.",
+        "I'm prepared to inspect the weld."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-43",
+      "departmentId": "machine",
+      "day": 43,
+      "task": "calibrate the instrument",
+      "text": "I'm ready to calibrate the instrument.",
+      "meaning": "계측기를 교정할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to calibrate the instrument.",
+        "I can calibrate the instrument now.",
+        "I'm prepared to calibrate the instrument."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-44",
+      "departmentId": "machine",
+      "day": 44,
+      "task": "check the pressure",
+      "text": "I'm ready to check the pressure.",
+      "meaning": "압력을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the pressure.",
+        "I can check the pressure now.",
+        "I'm prepared to check the pressure."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-45",
+      "departmentId": "machine",
+      "day": 45,
+      "task": "replace the filter",
+      "text": "I'm ready to replace the filter.",
+      "meaning": "필터를 교체할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to replace the filter.",
+        "I can replace the filter now.",
+        "I'm prepared to replace the filter."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-46",
+      "departmentId": "machine",
+      "day": 46,
+      "task": "secure the workpiece",
+      "text": "I'm ready to secure the workpiece.",
+      "meaning": "가공물을 고정할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to secure the workpiece.",
+        "I can secure the workpiece now.",
+        "I'm prepared to secure the workpiece."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-47",
+      "departmentId": "machine",
+      "day": 47,
+      "task": "check the tolerance",
+      "text": "I'm ready to check the tolerance.",
+      "meaning": "공차를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the tolerance.",
+        "I can check the tolerance now.",
+        "I'm prepared to check the tolerance."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-48",
+      "departmentId": "machine",
+      "day": 48,
+      "task": "remove the burrs",
+      "text": "I'm ready to remove the burrs.",
+      "meaning": "버를 제거할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to remove the burrs.",
+        "I can remove the burrs now.",
+        "I'm prepared to remove the burrs."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-49",
+      "departmentId": "machine",
+      "day": 49,
+      "task": "record the measurements",
+      "text": "I'm ready to record the measurements.",
+      "meaning": "측정값을 기록할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to record the measurements.",
+        "I can record the measurements now.",
+        "I'm prepared to record the measurements."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-50",
+      "departmentId": "machine",
+      "day": 50,
+      "task": "review the maintenance schedule",
+      "text": "I'm ready to review the maintenance schedule.",
+      "meaning": "정비 일정을 검토할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to review the maintenance schedule.",
+        "I can review the maintenance schedule now.",
+        "I'm prepared to review the maintenance schedule."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "machine-51",
+      "departmentId": "machine",
+      "day": 51,
+      "task": "check the machine",
+      "text": "Let me show you how to check the machine.",
+      "meaning": "기계를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the machine.",
+        "Let me explain how to check the machine.",
+        "I can show you how to check the machine."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-52",
+      "departmentId": "machine",
+      "day": 52,
+      "task": "measure the part",
+      "text": "Let me show you how to measure the part.",
+      "meaning": "부품을 측정하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to measure the part.",
+        "Let me explain how to measure the part.",
+        "I can show you how to measure the part."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-53",
+      "departmentId": "machine",
+      "day": 53,
+      "task": "tighten the bolt",
+      "text": "Let me show you how to tighten the bolt.",
+      "meaning": "볼트를 조이는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to tighten the bolt.",
+        "Let me explain how to tighten the bolt.",
+        "I can show you how to tighten the bolt."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-54",
+      "departmentId": "machine",
+      "day": 54,
+      "task": "read the drawing",
+      "text": "Let me show you how to read the drawing.",
+      "meaning": "도면을 읽는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to read the drawing.",
+        "Let me explain how to read the drawing.",
+        "I can show you how to read the drawing."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-55",
+      "departmentId": "machine",
+      "day": 55,
+      "task": "inspect the surface",
+      "text": "Let me show you how to inspect the surface.",
+      "meaning": "표면을 점검하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to inspect the surface.",
+        "Let me explain how to inspect the surface.",
+        "I can show you how to inspect the surface."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-56",
+      "departmentId": "machine",
+      "day": 56,
+      "task": "adjust the speed",
+      "text": "Let me show you how to adjust the speed.",
+      "meaning": "속도를 조절하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to adjust the speed.",
+        "Let me explain how to adjust the speed.",
+        "I can show you how to adjust the speed."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-57",
+      "departmentId": "machine",
+      "day": 57,
+      "task": "replace the tool",
+      "text": "Let me show you how to replace the tool.",
+      "meaning": "공구를 교체하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to replace the tool.",
+        "Let me explain how to replace the tool.",
+        "I can show you how to replace the tool."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-58",
+      "departmentId": "machine",
+      "day": 58,
+      "task": "check the oil level",
+      "text": "Let me show you how to check the oil level.",
+      "meaning": "오일 양을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the oil level.",
+        "Let me explain how to check the oil level.",
+        "I can show you how to check the oil level."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-59",
+      "departmentId": "machine",
+      "day": 59,
+      "task": "clean the workbench",
+      "text": "Let me show you how to clean the workbench.",
+      "meaning": "작업대를 청소하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to clean the workbench.",
+        "Let me explain how to clean the workbench.",
+        "I can show you how to clean the workbench."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-60",
+      "departmentId": "machine",
+      "day": 60,
+      "task": "wear safety goggles",
+      "text": "Let me show you how to wear safety goggles.",
+      "meaning": "보안경을 착용하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to wear safety goggles.",
+        "Let me explain how to wear safety goggles.",
+        "I can show you how to wear safety goggles."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-61",
+      "departmentId": "machine",
+      "day": 61,
+      "task": "test the motor",
+      "text": "Let me show you how to test the motor.",
+      "meaning": "모터를 테스트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to test the motor.",
+        "Let me explain how to test the motor.",
+        "I can show you how to test the motor."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-62",
+      "departmentId": "machine",
+      "day": 62,
+      "task": "align the parts",
+      "text": "Let me show you how to align the parts.",
+      "meaning": "부품을 정렬하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to align the parts.",
+        "Let me explain how to align the parts.",
+        "I can show you how to align the parts."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-63",
+      "departmentId": "machine",
+      "day": 63,
+      "task": "check the dimensions",
+      "text": "Let me show you how to check the dimensions.",
+      "meaning": "치수를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the dimensions.",
+        "Let me explain how to check the dimensions.",
+        "I can show you how to check the dimensions."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-64",
+      "departmentId": "machine",
+      "day": 64,
+      "task": "stop the machine",
+      "text": "Let me show you how to stop the machine.",
+      "meaning": "기계를 멈추는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to stop the machine.",
+        "Let me explain how to stop the machine.",
+        "I can show you how to stop the machine."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-65",
+      "departmentId": "machine",
+      "day": 65,
+      "task": "lubricate the bearing",
+      "text": "Let me show you how to lubricate the bearing.",
+      "meaning": "베어링에 윤활유를 바르는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to lubricate the bearing.",
+        "Let me explain how to lubricate the bearing.",
+        "I can show you how to lubricate the bearing."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-66",
+      "departmentId": "machine",
+      "day": 66,
+      "task": "prepare the materials",
+      "text": "Let me show you how to prepare the materials.",
+      "meaning": "재료를 준비하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to prepare the materials.",
+        "Let me explain how to prepare the materials.",
+        "I can show you how to prepare the materials."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-67",
+      "departmentId": "machine",
+      "day": 67,
+      "task": "inspect the weld",
+      "text": "Let me show you how to inspect the weld.",
+      "meaning": "용접부를 점검하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to inspect the weld.",
+        "Let me explain how to inspect the weld.",
+        "I can show you how to inspect the weld."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-68",
+      "departmentId": "machine",
+      "day": 68,
+      "task": "calibrate the instrument",
+      "text": "Let me show you how to calibrate the instrument.",
+      "meaning": "계측기를 교정하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to calibrate the instrument.",
+        "Let me explain how to calibrate the instrument.",
+        "I can show you how to calibrate the instrument."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-69",
+      "departmentId": "machine",
+      "day": 69,
+      "task": "check the pressure",
+      "text": "Let me show you how to check the pressure.",
+      "meaning": "압력을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the pressure.",
+        "Let me explain how to check the pressure.",
+        "I can show you how to check the pressure."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-70",
+      "departmentId": "machine",
+      "day": 70,
+      "task": "replace the filter",
+      "text": "Let me show you how to replace the filter.",
+      "meaning": "필터를 교체하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to replace the filter.",
+        "Let me explain how to replace the filter.",
+        "I can show you how to replace the filter."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-71",
+      "departmentId": "machine",
+      "day": 71,
+      "task": "secure the workpiece",
+      "text": "Let me show you how to secure the workpiece.",
+      "meaning": "가공물을 고정하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to secure the workpiece.",
+        "Let me explain how to secure the workpiece.",
+        "I can show you how to secure the workpiece."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-72",
+      "departmentId": "machine",
+      "day": 72,
+      "task": "check the tolerance",
+      "text": "Let me show you how to check the tolerance.",
+      "meaning": "공차를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the tolerance.",
+        "Let me explain how to check the tolerance.",
+        "I can show you how to check the tolerance."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-73",
+      "departmentId": "machine",
+      "day": 73,
+      "task": "remove the burrs",
+      "text": "Let me show you how to remove the burrs.",
+      "meaning": "버를 제거하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to remove the burrs.",
+        "Let me explain how to remove the burrs.",
+        "I can show you how to remove the burrs."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-74",
+      "departmentId": "machine",
+      "day": 74,
+      "task": "record the measurements",
+      "text": "Let me show you how to record the measurements.",
+      "meaning": "측정값을 기록하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to record the measurements.",
+        "Let me explain how to record the measurements.",
+        "I can show you how to record the measurements."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-75",
+      "departmentId": "machine",
+      "day": 75,
+      "task": "review the maintenance schedule",
+      "text": "Let me show you how to review the maintenance schedule.",
+      "meaning": "정비 일정을 검토하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to review the maintenance schedule.",
+        "Let me explain how to review the maintenance schedule.",
+        "I can show you how to review the maintenance schedule."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "machine-76",
+      "departmentId": "machine",
+      "day": 76,
+      "task": "check the machine",
+      "text": "Shall we check the machine together?",
+      "meaning": "함께 기계를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the machine together.",
+        "How about we check the machine together?",
+        "Would you like to check the machine with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-77",
+      "departmentId": "machine",
+      "day": 77,
+      "task": "measure the part",
+      "text": "Shall we measure the part together?",
+      "meaning": "함께 부품을 측정하는 건 어때요?",
+      "similar": [
+        "Let's measure the part together.",
+        "How about we measure the part together?",
+        "Would you like to measure the part with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-78",
+      "departmentId": "machine",
+      "day": 78,
+      "task": "tighten the bolt",
+      "text": "Shall we tighten the bolt together?",
+      "meaning": "함께 볼트를 조이는 건 어때요?",
+      "similar": [
+        "Let's tighten the bolt together.",
+        "How about we tighten the bolt together?",
+        "Would you like to tighten the bolt with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-79",
+      "departmentId": "machine",
+      "day": 79,
+      "task": "read the drawing",
+      "text": "Shall we read the drawing together?",
+      "meaning": "함께 도면을 읽는 건 어때요?",
+      "similar": [
+        "Let's read the drawing together.",
+        "How about we read the drawing together?",
+        "Would you like to read the drawing with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-80",
+      "departmentId": "machine",
+      "day": 80,
+      "task": "inspect the surface",
+      "text": "Shall we inspect the surface together?",
+      "meaning": "함께 표면을 점검하는 건 어때요?",
+      "similar": [
+        "Let's inspect the surface together.",
+        "How about we inspect the surface together?",
+        "Would you like to inspect the surface with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-81",
+      "departmentId": "machine",
+      "day": 81,
+      "task": "adjust the speed",
+      "text": "Shall we adjust the speed together?",
+      "meaning": "함께 속도를 조절하는 건 어때요?",
+      "similar": [
+        "Let's adjust the speed together.",
+        "How about we adjust the speed together?",
+        "Would you like to adjust the speed with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-82",
+      "departmentId": "machine",
+      "day": 82,
+      "task": "replace the tool",
+      "text": "Shall we replace the tool together?",
+      "meaning": "함께 공구를 교체하는 건 어때요?",
+      "similar": [
+        "Let's replace the tool together.",
+        "How about we replace the tool together?",
+        "Would you like to replace the tool with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-83",
+      "departmentId": "machine",
+      "day": 83,
+      "task": "check the oil level",
+      "text": "Shall we check the oil level together?",
+      "meaning": "함께 오일 양을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the oil level together.",
+        "How about we check the oil level together?",
+        "Would you like to check the oil level with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-84",
+      "departmentId": "machine",
+      "day": 84,
+      "task": "clean the workbench",
+      "text": "Shall we clean the workbench together?",
+      "meaning": "함께 작업대를 청소하는 건 어때요?",
+      "similar": [
+        "Let's clean the workbench together.",
+        "How about we clean the workbench together?",
+        "Would you like to clean the workbench with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-85",
+      "departmentId": "machine",
+      "day": 85,
+      "task": "wear safety goggles",
+      "text": "Shall we wear safety goggles together?",
+      "meaning": "함께 보안경을 착용하는 건 어때요?",
+      "similar": [
+        "Let's wear safety goggles together.",
+        "How about we wear safety goggles together?",
+        "Would you like to wear safety goggles with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-86",
+      "departmentId": "machine",
+      "day": 86,
+      "task": "test the motor",
+      "text": "Shall we test the motor together?",
+      "meaning": "함께 모터를 테스트하는 건 어때요?",
+      "similar": [
+        "Let's test the motor together.",
+        "How about we test the motor together?",
+        "Would you like to test the motor with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-87",
+      "departmentId": "machine",
+      "day": 87,
+      "task": "align the parts",
+      "text": "Shall we align the parts together?",
+      "meaning": "함께 부품을 정렬하는 건 어때요?",
+      "similar": [
+        "Let's align the parts together.",
+        "How about we align the parts together?",
+        "Would you like to align the parts with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-88",
+      "departmentId": "machine",
+      "day": 88,
+      "task": "check the dimensions",
+      "text": "Shall we check the dimensions together?",
+      "meaning": "함께 치수를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the dimensions together.",
+        "How about we check the dimensions together?",
+        "Would you like to check the dimensions with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-89",
+      "departmentId": "machine",
+      "day": 89,
+      "task": "stop the machine",
+      "text": "Shall we stop the machine together?",
+      "meaning": "함께 기계를 멈추는 건 어때요?",
+      "similar": [
+        "Let's stop the machine together.",
+        "How about we stop the machine together?",
+        "Would you like to stop the machine with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-90",
+      "departmentId": "machine",
+      "day": 90,
+      "task": "lubricate the bearing",
+      "text": "Shall we lubricate the bearing together?",
+      "meaning": "함께 베어링에 윤활유를 바르는 건 어때요?",
+      "similar": [
+        "Let's lubricate the bearing together.",
+        "How about we lubricate the bearing together?",
+        "Would you like to lubricate the bearing with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-91",
+      "departmentId": "machine",
+      "day": 91,
+      "task": "prepare the materials",
+      "text": "Shall we prepare the materials together?",
+      "meaning": "함께 재료를 준비하는 건 어때요?",
+      "similar": [
+        "Let's prepare the materials together.",
+        "How about we prepare the materials together?",
+        "Would you like to prepare the materials with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-92",
+      "departmentId": "machine",
+      "day": 92,
+      "task": "inspect the weld",
+      "text": "Shall we inspect the weld together?",
+      "meaning": "함께 용접부를 점검하는 건 어때요?",
+      "similar": [
+        "Let's inspect the weld together.",
+        "How about we inspect the weld together?",
+        "Would you like to inspect the weld with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-93",
+      "departmentId": "machine",
+      "day": 93,
+      "task": "calibrate the instrument",
+      "text": "Shall we calibrate the instrument together?",
+      "meaning": "함께 계측기를 교정하는 건 어때요?",
+      "similar": [
+        "Let's calibrate the instrument together.",
+        "How about we calibrate the instrument together?",
+        "Would you like to calibrate the instrument with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-94",
+      "departmentId": "machine",
+      "day": 94,
+      "task": "check the pressure",
+      "text": "Shall we check the pressure together?",
+      "meaning": "함께 압력을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the pressure together.",
+        "How about we check the pressure together?",
+        "Would you like to check the pressure with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-95",
+      "departmentId": "machine",
+      "day": 95,
+      "task": "replace the filter",
+      "text": "Shall we replace the filter together?",
+      "meaning": "함께 필터를 교체하는 건 어때요?",
+      "similar": [
+        "Let's replace the filter together.",
+        "How about we replace the filter together?",
+        "Would you like to replace the filter with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-96",
+      "departmentId": "machine",
+      "day": 96,
+      "task": "secure the workpiece",
+      "text": "Shall we secure the workpiece together?",
+      "meaning": "함께 가공물을 고정하는 건 어때요?",
+      "similar": [
+        "Let's secure the workpiece together.",
+        "How about we secure the workpiece together?",
+        "Would you like to secure the workpiece with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-97",
+      "departmentId": "machine",
+      "day": 97,
+      "task": "check the tolerance",
+      "text": "Shall we check the tolerance together?",
+      "meaning": "함께 공차를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the tolerance together.",
+        "How about we check the tolerance together?",
+        "Would you like to check the tolerance with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-98",
+      "departmentId": "machine",
+      "day": 98,
+      "task": "remove the burrs",
+      "text": "Shall we remove the burrs together?",
+      "meaning": "함께 버를 제거하는 건 어때요?",
+      "similar": [
+        "Let's remove the burrs together.",
+        "How about we remove the burrs together?",
+        "Would you like to remove the burrs with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-99",
+      "departmentId": "machine",
+      "day": 99,
+      "task": "record the measurements",
+      "text": "Shall we record the measurements together?",
+      "meaning": "함께 측정값을 기록하는 건 어때요?",
+      "similar": [
+        "Let's record the measurements together.",
+        "How about we record the measurements together?",
+        "Would you like to record the measurements with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "machine-100",
+      "departmentId": "machine",
+      "day": 100,
+      "task": "review the maintenance schedule",
+      "text": "Shall we review the maintenance schedule together?",
+      "meaning": "함께 정비 일정을 검토하는 건 어때요?",
+      "similar": [
+        "Let's review the maintenance schedule together.",
+        "How about we review the maintenance schedule together?",
+        "Would you like to review the maintenance schedule with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    }
+  ]
+}

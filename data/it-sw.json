@@ -1,0 +1,1606 @@
+{
+  "schemaVersion": 1,
+  "departmentId": "it",
+  "expressions": [
+    {
+      "id": "it-1",
+      "departmentId": "it",
+      "day": 1,
+      "task": "check the code",
+      "text": "Could you help me check the code?",
+      "meaning": "코드를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the code?",
+        "Could you give me a hand as I check the code?",
+        "I'd appreciate your help as I check the code."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-2",
+      "departmentId": "it",
+      "day": 2,
+      "task": "fix the bug",
+      "text": "Could you help me fix the bug?",
+      "meaning": "버그를 수정하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me fix the bug?",
+        "Could you give me a hand as I fix the bug?",
+        "I'd appreciate your help as I fix the bug."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-3",
+      "departmentId": "it",
+      "day": 3,
+      "task": "run the test",
+      "text": "Could you help me run the test?",
+      "meaning": "테스트를 실행하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me run the test?",
+        "Could you give me a hand as I run the test?",
+        "I'd appreciate your help as I run the test."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-4",
+      "departmentId": "it",
+      "day": 4,
+      "task": "update the website",
+      "text": "Could you help me update the website?",
+      "meaning": "웹사이트를 업데이트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me update the website?",
+        "Could you give me a hand as I update the website?",
+        "I'd appreciate your help as I update the website."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-5",
+      "departmentId": "it",
+      "day": 5,
+      "task": "share the screen",
+      "text": "Could you help me share the screen?",
+      "meaning": "화면을 공유하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me share the screen?",
+        "Could you give me a hand as I share the screen?",
+        "I'd appreciate your help as I share the screen."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-6",
+      "departmentId": "it",
+      "day": 6,
+      "task": "review the changes",
+      "text": "Could you help me review the changes?",
+      "meaning": "변경 사항을 검토하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me review the changes?",
+        "Could you give me a hand as I review the changes?",
+        "I'd appreciate your help as I review the changes."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-7",
+      "departmentId": "it",
+      "day": 7,
+      "task": "create a backup",
+      "text": "Could you help me create a backup?",
+      "meaning": "백업을 만들는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me create a backup?",
+        "Could you give me a hand as I create a backup?",
+        "I'd appreciate your help as I create a backup."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-8",
+      "departmentId": "it",
+      "day": 8,
+      "task": "check the server",
+      "text": "Could you help me check the server?",
+      "meaning": "서버를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the server?",
+        "Could you give me a hand as I check the server?",
+        "I'd appreciate your help as I check the server."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-9",
+      "departmentId": "it",
+      "day": 9,
+      "task": "install the software",
+      "text": "Could you help me install the software?",
+      "meaning": "소프트웨어를 설치하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me install the software?",
+        "Could you give me a hand as I install the software?",
+        "I'd appreciate your help as I install the software."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-10",
+      "departmentId": "it",
+      "day": 10,
+      "task": "write the documentation",
+      "text": "Could you help me write the documentation?",
+      "meaning": "문서를 작성하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me write the documentation?",
+        "Could you give me a hand as I write the documentation?",
+        "I'd appreciate your help as I write the documentation."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-11",
+      "departmentId": "it",
+      "day": 11,
+      "task": "open the file",
+      "text": "Could you help me open the file?",
+      "meaning": "파일을 여는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me open the file?",
+        "Could you give me a hand as I open the file?",
+        "I'd appreciate your help as I open the file."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-12",
+      "departmentId": "it",
+      "day": 12,
+      "task": "test the new feature",
+      "text": "Could you help me test the new feature?",
+      "meaning": "새 기능을 테스트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me test the new feature?",
+        "Could you give me a hand as I test the new feature?",
+        "I'd appreciate your help as I test the new feature."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-13",
+      "departmentId": "it",
+      "day": 13,
+      "task": "check the error message",
+      "text": "Could you help me check the error message?",
+      "meaning": "오류 메시지를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the error message?",
+        "Could you give me a hand as I check the error message?",
+        "I'd appreciate your help as I check the error message."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-14",
+      "departmentId": "it",
+      "day": 14,
+      "task": "update the database",
+      "text": "Could you help me update the database?",
+      "meaning": "데이터베이스를 업데이트하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me update the database?",
+        "Could you give me a hand as I update the database?",
+        "I'd appreciate your help as I update the database."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-15",
+      "departmentId": "it",
+      "day": 15,
+      "task": "review the design",
+      "text": "Could you help me review the design?",
+      "meaning": "디자인을 검토하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me review the design?",
+        "Could you give me a hand as I review the design?",
+        "I'd appreciate your help as I review the design."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-16",
+      "departmentId": "it",
+      "day": 16,
+      "task": "restart the application",
+      "text": "Could you help me restart the application?",
+      "meaning": "앱을 다시 시작하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me restart the application?",
+        "Could you give me a hand as I restart the application?",
+        "I'd appreciate your help as I restart the application."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-17",
+      "departmentId": "it",
+      "day": 17,
+      "task": "set up the environment",
+      "text": "Could you help me set up the environment?",
+      "meaning": "개발 환경을 설정하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me set up the environment?",
+        "Could you give me a hand as I set up the environment?",
+        "I'd appreciate your help as I set up the environment."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-18",
+      "departmentId": "it",
+      "day": 18,
+      "task": "check the logs",
+      "text": "Could you help me check the logs?",
+      "meaning": "로그를 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the logs?",
+        "Could you give me a hand as I check the logs?",
+        "I'd appreciate your help as I check the logs."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-19",
+      "departmentId": "it",
+      "day": 19,
+      "task": "merge the changes",
+      "text": "Could you help me merge the changes?",
+      "meaning": "변경 사항을 병합하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me merge the changes?",
+        "Could you give me a hand as I merge the changes?",
+        "I'd appreciate your help as I merge the changes."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-20",
+      "departmentId": "it",
+      "day": 20,
+      "task": "deploy the application",
+      "text": "Could you help me deploy the application?",
+      "meaning": "앱을 배포하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me deploy the application?",
+        "Could you give me a hand as I deploy the application?",
+        "I'd appreciate your help as I deploy the application."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-21",
+      "departmentId": "it",
+      "day": 21,
+      "task": "optimize the query",
+      "text": "Could you help me optimize the query?",
+      "meaning": "쿼리를 최적화하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me optimize the query?",
+        "Could you give me a hand as I optimize the query?",
+        "I'd appreciate your help as I optimize the query."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-22",
+      "departmentId": "it",
+      "day": 22,
+      "task": "check the permissions",
+      "text": "Could you help me check the permissions?",
+      "meaning": "권한을 확인하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me check the permissions?",
+        "Could you give me a hand as I check the permissions?",
+        "I'd appreciate your help as I check the permissions."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-23",
+      "departmentId": "it",
+      "day": 23,
+      "task": "save the file",
+      "text": "Could you help me save the file?",
+      "meaning": "파일을 저장하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me save the file?",
+        "Could you give me a hand as I save the file?",
+        "I'd appreciate your help as I save the file."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-24",
+      "departmentId": "it",
+      "day": 24,
+      "task": "discuss the requirements",
+      "text": "Could you help me discuss the requirements?",
+      "meaning": "요구 사항을 논의하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me discuss the requirements?",
+        "Could you give me a hand as I discuss the requirements?",
+        "I'd appreciate your help as I discuss the requirements."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-25",
+      "departmentId": "it",
+      "day": 25,
+      "task": "review the pull request",
+      "text": "Could you help me review the pull request?",
+      "meaning": "풀 리퀘스트를 검토하는 것을 도와주시겠어요?",
+      "similar": [
+        "Can you help me review the pull request?",
+        "Could you give me a hand as I review the pull request?",
+        "I'd appreciate your help as I review the pull request."
+      ],
+      "tip": "Could you help me + 동사원형? 은 동료에게 정중하게 도움을 요청하는 표현이에요.",
+      "reply": "Of course. Let’s take a look together.",
+      "replyKo": "물론이죠. 같이 살펴봐요."
+    },
+    {
+      "id": "it-26",
+      "departmentId": "it",
+      "day": 26,
+      "task": "check the code",
+      "text": "I'm ready to check the code.",
+      "meaning": "코드를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the code.",
+        "I can check the code now.",
+        "I'm prepared to check the code."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-27",
+      "departmentId": "it",
+      "day": 27,
+      "task": "fix the bug",
+      "text": "I'm ready to fix the bug.",
+      "meaning": "버그를 수정할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to fix the bug.",
+        "I can fix the bug now.",
+        "I'm prepared to fix the bug."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-28",
+      "departmentId": "it",
+      "day": 28,
+      "task": "run the test",
+      "text": "I'm ready to run the test.",
+      "meaning": "테스트를 실행할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to run the test.",
+        "I can run the test now.",
+        "I'm prepared to run the test."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-29",
+      "departmentId": "it",
+      "day": 29,
+      "task": "update the website",
+      "text": "I'm ready to update the website.",
+      "meaning": "웹사이트를 업데이트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to update the website.",
+        "I can update the website now.",
+        "I'm prepared to update the website."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-30",
+      "departmentId": "it",
+      "day": 30,
+      "task": "share the screen",
+      "text": "I'm ready to share the screen.",
+      "meaning": "화면을 공유할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to share the screen.",
+        "I can share the screen now.",
+        "I'm prepared to share the screen."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-31",
+      "departmentId": "it",
+      "day": 31,
+      "task": "review the changes",
+      "text": "I'm ready to review the changes.",
+      "meaning": "변경 사항을 검토할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to review the changes.",
+        "I can review the changes now.",
+        "I'm prepared to review the changes."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-32",
+      "departmentId": "it",
+      "day": 32,
+      "task": "create a backup",
+      "text": "I'm ready to create a backup.",
+      "meaning": "백업을 만들다 준비가 되었어요.",
+      "similar": [
+        "I'm all set to create a backup.",
+        "I can create a backup now.",
+        "I'm prepared to create a backup."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-33",
+      "departmentId": "it",
+      "day": 33,
+      "task": "check the server",
+      "text": "I'm ready to check the server.",
+      "meaning": "서버를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the server.",
+        "I can check the server now.",
+        "I'm prepared to check the server."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-34",
+      "departmentId": "it",
+      "day": 34,
+      "task": "install the software",
+      "text": "I'm ready to install the software.",
+      "meaning": "소프트웨어를 설치할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to install the software.",
+        "I can install the software now.",
+        "I'm prepared to install the software."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-35",
+      "departmentId": "it",
+      "day": 35,
+      "task": "write the documentation",
+      "text": "I'm ready to write the documentation.",
+      "meaning": "문서를 작성할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to write the documentation.",
+        "I can write the documentation now.",
+        "I'm prepared to write the documentation."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-36",
+      "departmentId": "it",
+      "day": 36,
+      "task": "open the file",
+      "text": "I'm ready to open the file.",
+      "meaning": "파일을 열 준비가 되었어요.",
+      "similar": [
+        "I'm all set to open the file.",
+        "I can open the file now.",
+        "I'm prepared to open the file."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-37",
+      "departmentId": "it",
+      "day": 37,
+      "task": "test the new feature",
+      "text": "I'm ready to test the new feature.",
+      "meaning": "새 기능을 테스트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to test the new feature.",
+        "I can test the new feature now.",
+        "I'm prepared to test the new feature."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-38",
+      "departmentId": "it",
+      "day": 38,
+      "task": "check the error message",
+      "text": "I'm ready to check the error message.",
+      "meaning": "오류 메시지를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the error message.",
+        "I can check the error message now.",
+        "I'm prepared to check the error message."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-39",
+      "departmentId": "it",
+      "day": 39,
+      "task": "update the database",
+      "text": "I'm ready to update the database.",
+      "meaning": "데이터베이스를 업데이트할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to update the database.",
+        "I can update the database now.",
+        "I'm prepared to update the database."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-40",
+      "departmentId": "it",
+      "day": 40,
+      "task": "review the design",
+      "text": "I'm ready to review the design.",
+      "meaning": "디자인을 검토할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to review the design.",
+        "I can review the design now.",
+        "I'm prepared to review the design."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-41",
+      "departmentId": "it",
+      "day": 41,
+      "task": "restart the application",
+      "text": "I'm ready to restart the application.",
+      "meaning": "앱을 다시 시작할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to restart the application.",
+        "I can restart the application now.",
+        "I'm prepared to restart the application."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-42",
+      "departmentId": "it",
+      "day": 42,
+      "task": "set up the environment",
+      "text": "I'm ready to set up the environment.",
+      "meaning": "개발 환경을 설정할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to set up the environment.",
+        "I can set up the environment now.",
+        "I'm prepared to set up the environment."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-43",
+      "departmentId": "it",
+      "day": 43,
+      "task": "check the logs",
+      "text": "I'm ready to check the logs.",
+      "meaning": "로그를 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the logs.",
+        "I can check the logs now.",
+        "I'm prepared to check the logs."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-44",
+      "departmentId": "it",
+      "day": 44,
+      "task": "merge the changes",
+      "text": "I'm ready to merge the changes.",
+      "meaning": "변경 사항을 병합할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to merge the changes.",
+        "I can merge the changes now.",
+        "I'm prepared to merge the changes."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-45",
+      "departmentId": "it",
+      "day": 45,
+      "task": "deploy the application",
+      "text": "I'm ready to deploy the application.",
+      "meaning": "앱을 배포할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to deploy the application.",
+        "I can deploy the application now.",
+        "I'm prepared to deploy the application."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-46",
+      "departmentId": "it",
+      "day": 46,
+      "task": "optimize the query",
+      "text": "I'm ready to optimize the query.",
+      "meaning": "쿼리를 최적화할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to optimize the query.",
+        "I can optimize the query now.",
+        "I'm prepared to optimize the query."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-47",
+      "departmentId": "it",
+      "day": 47,
+      "task": "check the permissions",
+      "text": "I'm ready to check the permissions.",
+      "meaning": "권한을 확인할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to check the permissions.",
+        "I can check the permissions now.",
+        "I'm prepared to check the permissions."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-48",
+      "departmentId": "it",
+      "day": 48,
+      "task": "save the file",
+      "text": "I'm ready to save the file.",
+      "meaning": "파일을 저장할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to save the file.",
+        "I can save the file now.",
+        "I'm prepared to save the file."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-49",
+      "departmentId": "it",
+      "day": 49,
+      "task": "discuss the requirements",
+      "text": "I'm ready to discuss the requirements.",
+      "meaning": "요구 사항을 논의할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to discuss the requirements.",
+        "I can discuss the requirements now.",
+        "I'm prepared to discuss the requirements."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-50",
+      "departmentId": "it",
+      "day": 50,
+      "task": "review the pull request",
+      "text": "I'm ready to review the pull request.",
+      "meaning": "풀 리퀘스트를 검토할 준비가 되었어요.",
+      "similar": [
+        "I'm all set to review the pull request.",
+        "I can review the pull request now.",
+        "I'm prepared to review the pull request."
+      ],
+      "tip": "I’m ready to + 동사원형으로 업무를 시작할 준비가 되었음을 알려요.",
+      "reply": "Great! Let me know if you need anything.",
+      "replyKo": "좋아요! 필요한 게 있으면 알려 주세요."
+    },
+    {
+      "id": "it-51",
+      "departmentId": "it",
+      "day": 51,
+      "task": "check the code",
+      "text": "Let me show you how to check the code.",
+      "meaning": "코드를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the code.",
+        "Let me explain how to check the code.",
+        "I can show you how to check the code."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-52",
+      "departmentId": "it",
+      "day": 52,
+      "task": "fix the bug",
+      "text": "Let me show you how to fix the bug.",
+      "meaning": "버그를 수정하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to fix the bug.",
+        "Let me explain how to fix the bug.",
+        "I can show you how to fix the bug."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-53",
+      "departmentId": "it",
+      "day": 53,
+      "task": "run the test",
+      "text": "Let me show you how to run the test.",
+      "meaning": "테스트를 실행하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to run the test.",
+        "Let me explain how to run the test.",
+        "I can show you how to run the test."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-54",
+      "departmentId": "it",
+      "day": 54,
+      "task": "update the website",
+      "text": "Let me show you how to update the website.",
+      "meaning": "웹사이트를 업데이트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to update the website.",
+        "Let me explain how to update the website.",
+        "I can show you how to update the website."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-55",
+      "departmentId": "it",
+      "day": 55,
+      "task": "share the screen",
+      "text": "Let me show you how to share the screen.",
+      "meaning": "화면을 공유하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to share the screen.",
+        "Let me explain how to share the screen.",
+        "I can show you how to share the screen."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-56",
+      "departmentId": "it",
+      "day": 56,
+      "task": "review the changes",
+      "text": "Let me show you how to review the changes.",
+      "meaning": "변경 사항을 검토하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to review the changes.",
+        "Let me explain how to review the changes.",
+        "I can show you how to review the changes."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-57",
+      "departmentId": "it",
+      "day": 57,
+      "task": "create a backup",
+      "text": "Let me show you how to create a backup.",
+      "meaning": "백업을 만들는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to create a backup.",
+        "Let me explain how to create a backup.",
+        "I can show you how to create a backup."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-58",
+      "departmentId": "it",
+      "day": 58,
+      "task": "check the server",
+      "text": "Let me show you how to check the server.",
+      "meaning": "서버를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the server.",
+        "Let me explain how to check the server.",
+        "I can show you how to check the server."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-59",
+      "departmentId": "it",
+      "day": 59,
+      "task": "install the software",
+      "text": "Let me show you how to install the software.",
+      "meaning": "소프트웨어를 설치하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to install the software.",
+        "Let me explain how to install the software.",
+        "I can show you how to install the software."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-60",
+      "departmentId": "it",
+      "day": 60,
+      "task": "write the documentation",
+      "text": "Let me show you how to write the documentation.",
+      "meaning": "문서를 작성하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to write the documentation.",
+        "Let me explain how to write the documentation.",
+        "I can show you how to write the documentation."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-61",
+      "departmentId": "it",
+      "day": 61,
+      "task": "open the file",
+      "text": "Let me show you how to open the file.",
+      "meaning": "파일을 여는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to open the file.",
+        "Let me explain how to open the file.",
+        "I can show you how to open the file."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-62",
+      "departmentId": "it",
+      "day": 62,
+      "task": "test the new feature",
+      "text": "Let me show you how to test the new feature.",
+      "meaning": "새 기능을 테스트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to test the new feature.",
+        "Let me explain how to test the new feature.",
+        "I can show you how to test the new feature."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-63",
+      "departmentId": "it",
+      "day": 63,
+      "task": "check the error message",
+      "text": "Let me show you how to check the error message.",
+      "meaning": "오류 메시지를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the error message.",
+        "Let me explain how to check the error message.",
+        "I can show you how to check the error message."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-64",
+      "departmentId": "it",
+      "day": 64,
+      "task": "update the database",
+      "text": "Let me show you how to update the database.",
+      "meaning": "데이터베이스를 업데이트하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to update the database.",
+        "Let me explain how to update the database.",
+        "I can show you how to update the database."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-65",
+      "departmentId": "it",
+      "day": 65,
+      "task": "review the design",
+      "text": "Let me show you how to review the design.",
+      "meaning": "디자인을 검토하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to review the design.",
+        "Let me explain how to review the design.",
+        "I can show you how to review the design."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-66",
+      "departmentId": "it",
+      "day": 66,
+      "task": "restart the application",
+      "text": "Let me show you how to restart the application.",
+      "meaning": "앱을 다시 시작하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to restart the application.",
+        "Let me explain how to restart the application.",
+        "I can show you how to restart the application."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-67",
+      "departmentId": "it",
+      "day": 67,
+      "task": "set up the environment",
+      "text": "Let me show you how to set up the environment.",
+      "meaning": "개발 환경을 설정하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to set up the environment.",
+        "Let me explain how to set up the environment.",
+        "I can show you how to set up the environment."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-68",
+      "departmentId": "it",
+      "day": 68,
+      "task": "check the logs",
+      "text": "Let me show you how to check the logs.",
+      "meaning": "로그를 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the logs.",
+        "Let me explain how to check the logs.",
+        "I can show you how to check the logs."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-69",
+      "departmentId": "it",
+      "day": 69,
+      "task": "merge the changes",
+      "text": "Let me show you how to merge the changes.",
+      "meaning": "변경 사항을 병합하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to merge the changes.",
+        "Let me explain how to merge the changes.",
+        "I can show you how to merge the changes."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-70",
+      "departmentId": "it",
+      "day": 70,
+      "task": "deploy the application",
+      "text": "Let me show you how to deploy the application.",
+      "meaning": "앱을 배포하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to deploy the application.",
+        "Let me explain how to deploy the application.",
+        "I can show you how to deploy the application."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-71",
+      "departmentId": "it",
+      "day": 71,
+      "task": "optimize the query",
+      "text": "Let me show you how to optimize the query.",
+      "meaning": "쿼리를 최적화하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to optimize the query.",
+        "Let me explain how to optimize the query.",
+        "I can show you how to optimize the query."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-72",
+      "departmentId": "it",
+      "day": 72,
+      "task": "check the permissions",
+      "text": "Let me show you how to check the permissions.",
+      "meaning": "권한을 확인하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to check the permissions.",
+        "Let me explain how to check the permissions.",
+        "I can show you how to check the permissions."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-73",
+      "departmentId": "it",
+      "day": 73,
+      "task": "save the file",
+      "text": "Let me show you how to save the file.",
+      "meaning": "파일을 저장하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to save the file.",
+        "Let me explain how to save the file.",
+        "I can show you how to save the file."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-74",
+      "departmentId": "it",
+      "day": 74,
+      "task": "discuss the requirements",
+      "text": "Let me show you how to discuss the requirements.",
+      "meaning": "요구 사항을 논의하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to discuss the requirements.",
+        "Let me explain how to discuss the requirements.",
+        "I can show you how to discuss the requirements."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-75",
+      "departmentId": "it",
+      "day": 75,
+      "task": "review the pull request",
+      "text": "Let me show you how to review the pull request.",
+      "meaning": "풀 리퀘스트를 검토하는 방법을 보여 드릴게요.",
+      "similar": [
+        "I'll show you how to review the pull request.",
+        "Let me explain how to review the pull request.",
+        "I can show you how to review the pull request."
+      ],
+      "tip": "Let me show you how to는 작업 방법을 친절하게 안내할 때 사용해요.",
+      "reply": "Thank you. That would be helpful.",
+      "replyKo": "고마워요. 도움이 되겠어요."
+    },
+    {
+      "id": "it-76",
+      "departmentId": "it",
+      "day": 76,
+      "task": "check the code",
+      "text": "Shall we check the code together?",
+      "meaning": "함께 코드를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the code together.",
+        "How about we check the code together?",
+        "Would you like to check the code with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-77",
+      "departmentId": "it",
+      "day": 77,
+      "task": "fix the bug",
+      "text": "Shall we fix the bug together?",
+      "meaning": "함께 버그를 수정하는 건 어때요?",
+      "similar": [
+        "Let's fix the bug together.",
+        "How about we fix the bug together?",
+        "Would you like to fix the bug with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-78",
+      "departmentId": "it",
+      "day": 78,
+      "task": "run the test",
+      "text": "Shall we run the test together?",
+      "meaning": "함께 테스트를 실행하는 건 어때요?",
+      "similar": [
+        "Let's run the test together.",
+        "How about we run the test together?",
+        "Would you like to run the test with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-79",
+      "departmentId": "it",
+      "day": 79,
+      "task": "update the website",
+      "text": "Shall we update the website together?",
+      "meaning": "함께 웹사이트를 업데이트하는 건 어때요?",
+      "similar": [
+        "Let's update the website together.",
+        "How about we update the website together?",
+        "Would you like to update the website with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-80",
+      "departmentId": "it",
+      "day": 80,
+      "task": "share the screen",
+      "text": "Shall we share the screen together?",
+      "meaning": "함께 화면을 공유하는 건 어때요?",
+      "similar": [
+        "Let's share the screen together.",
+        "How about we share the screen together?",
+        "Would you like to share the screen with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-81",
+      "departmentId": "it",
+      "day": 81,
+      "task": "review the changes",
+      "text": "Shall we review the changes together?",
+      "meaning": "함께 변경 사항을 검토하는 건 어때요?",
+      "similar": [
+        "Let's review the changes together.",
+        "How about we review the changes together?",
+        "Would you like to review the changes with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-82",
+      "departmentId": "it",
+      "day": 82,
+      "task": "create a backup",
+      "text": "Shall we create a backup together?",
+      "meaning": "함께 백업을 만들는 건 어때요?",
+      "similar": [
+        "Let's create a backup together.",
+        "How about we create a backup together?",
+        "Would you like to create a backup with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-83",
+      "departmentId": "it",
+      "day": 83,
+      "task": "check the server",
+      "text": "Shall we check the server together?",
+      "meaning": "함께 서버를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the server together.",
+        "How about we check the server together?",
+        "Would you like to check the server with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-84",
+      "departmentId": "it",
+      "day": 84,
+      "task": "install the software",
+      "text": "Shall we install the software together?",
+      "meaning": "함께 소프트웨어를 설치하는 건 어때요?",
+      "similar": [
+        "Let's install the software together.",
+        "How about we install the software together?",
+        "Would you like to install the software with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-85",
+      "departmentId": "it",
+      "day": 85,
+      "task": "write the documentation",
+      "text": "Shall we write the documentation together?",
+      "meaning": "함께 문서를 작성하는 건 어때요?",
+      "similar": [
+        "Let's write the documentation together.",
+        "How about we write the documentation together?",
+        "Would you like to write the documentation with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-86",
+      "departmentId": "it",
+      "day": 86,
+      "task": "open the file",
+      "text": "Shall we open the file together?",
+      "meaning": "함께 파일을 여는 건 어때요?",
+      "similar": [
+        "Let's open the file together.",
+        "How about we open the file together?",
+        "Would you like to open the file with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-87",
+      "departmentId": "it",
+      "day": 87,
+      "task": "test the new feature",
+      "text": "Shall we test the new feature together?",
+      "meaning": "함께 새 기능을 테스트하는 건 어때요?",
+      "similar": [
+        "Let's test the new feature together.",
+        "How about we test the new feature together?",
+        "Would you like to test the new feature with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-88",
+      "departmentId": "it",
+      "day": 88,
+      "task": "check the error message",
+      "text": "Shall we check the error message together?",
+      "meaning": "함께 오류 메시지를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the error message together.",
+        "How about we check the error message together?",
+        "Would you like to check the error message with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-89",
+      "departmentId": "it",
+      "day": 89,
+      "task": "update the database",
+      "text": "Shall we update the database together?",
+      "meaning": "함께 데이터베이스를 업데이트하는 건 어때요?",
+      "similar": [
+        "Let's update the database together.",
+        "How about we update the database together?",
+        "Would you like to update the database with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-90",
+      "departmentId": "it",
+      "day": 90,
+      "task": "review the design",
+      "text": "Shall we review the design together?",
+      "meaning": "함께 디자인을 검토하는 건 어때요?",
+      "similar": [
+        "Let's review the design together.",
+        "How about we review the design together?",
+        "Would you like to review the design with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-91",
+      "departmentId": "it",
+      "day": 91,
+      "task": "restart the application",
+      "text": "Shall we restart the application together?",
+      "meaning": "함께 앱을 다시 시작하는 건 어때요?",
+      "similar": [
+        "Let's restart the application together.",
+        "How about we restart the application together?",
+        "Would you like to restart the application with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-92",
+      "departmentId": "it",
+      "day": 92,
+      "task": "set up the environment",
+      "text": "Shall we set up the environment together?",
+      "meaning": "함께 개발 환경을 설정하는 건 어때요?",
+      "similar": [
+        "Let's set up the environment together.",
+        "How about we set up the environment together?",
+        "Would you like to set up the environment with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-93",
+      "departmentId": "it",
+      "day": 93,
+      "task": "check the logs",
+      "text": "Shall we check the logs together?",
+      "meaning": "함께 로그를 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the logs together.",
+        "How about we check the logs together?",
+        "Would you like to check the logs with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-94",
+      "departmentId": "it",
+      "day": 94,
+      "task": "merge the changes",
+      "text": "Shall we merge the changes together?",
+      "meaning": "함께 변경 사항을 병합하는 건 어때요?",
+      "similar": [
+        "Let's merge the changes together.",
+        "How about we merge the changes together?",
+        "Would you like to merge the changes with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-95",
+      "departmentId": "it",
+      "day": 95,
+      "task": "deploy the application",
+      "text": "Shall we deploy the application together?",
+      "meaning": "함께 앱을 배포하는 건 어때요?",
+      "similar": [
+        "Let's deploy the application together.",
+        "How about we deploy the application together?",
+        "Would you like to deploy the application with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-96",
+      "departmentId": "it",
+      "day": 96,
+      "task": "optimize the query",
+      "text": "Shall we optimize the query together?",
+      "meaning": "함께 쿼리를 최적화하는 건 어때요?",
+      "similar": [
+        "Let's optimize the query together.",
+        "How about we optimize the query together?",
+        "Would you like to optimize the query with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-97",
+      "departmentId": "it",
+      "day": 97,
+      "task": "check the permissions",
+      "text": "Shall we check the permissions together?",
+      "meaning": "함께 권한을 확인하는 건 어때요?",
+      "similar": [
+        "Let's check the permissions together.",
+        "How about we check the permissions together?",
+        "Would you like to check the permissions with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-98",
+      "departmentId": "it",
+      "day": 98,
+      "task": "save the file",
+      "text": "Shall we save the file together?",
+      "meaning": "함께 파일을 저장하는 건 어때요?",
+      "similar": [
+        "Let's save the file together.",
+        "How about we save the file together?",
+        "Would you like to save the file with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-99",
+      "departmentId": "it",
+      "day": 99,
+      "task": "discuss the requirements",
+      "text": "Shall we discuss the requirements together?",
+      "meaning": "함께 요구 사항을 논의하는 건 어때요?",
+      "similar": [
+        "Let's discuss the requirements together.",
+        "How about we discuss the requirements together?",
+        "Would you like to discuss the requirements with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    },
+    {
+      "id": "it-100",
+      "departmentId": "it",
+      "day": 100,
+      "task": "review the pull request",
+      "text": "Shall we review the pull request together?",
+      "meaning": "함께 풀 리퀘스트를 검토하는 건 어때요?",
+      "similar": [
+        "Let's review the pull request together.",
+        "How about we review the pull request together?",
+        "Would you like to review the pull request with me?"
+      ],
+      "tip": "Shall we + 동사원형? 으로 함께 할 일을 부드럽게 제안해요.",
+      "reply": "Sounds good. Let’s get started.",
+      "replyKo": "좋아요. 시작해 봐요."
+    }
+  ]
+}
